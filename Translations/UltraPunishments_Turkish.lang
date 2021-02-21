@@ -143,6 +143,9 @@
 #templateView.reason.action: "Click to set reason"
 #templateView.reason.title: "Reason"
 #templateView.type.action: "Click to toggle type"
+#templateView.changeIcon.title: "Change Icon"
+#templateView.changeIcon.action: "Click to change the Icon"
+#templateChangeIconView.title: "%template% > Change Icon"
 #unmuteCommand.notMuted: "The player **%player%** is not muted"
 #unmuteCommand.unmute: "Successfully unmuted the player **%player%**"
 #unmuteCommand.unmute.broadcast: "**%player%** was unmuted by **%issuer%**"
@@ -159,4 +162,3 @@
 #muteChatMessage.local.temporary: "The chat has been muted"
 #unmuteChatMessage.local.temporary: "The chat has been unmuted"
 #muteChatMessageCommand.local.temporary: "The chat is muted"
-
