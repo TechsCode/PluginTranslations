@@ -58,4 +58,4 @@ BalancesView.Action.Pay.Success: "Você enviou com sucesso %value% para  **%targ
 BalancesView.Action.Pay.Fail: "Infelizmente, houve um problema ao fazer essa transação"
 BalancesView.Action.Cheating: "**Pressione Q** para **definir** seu saldo"
 BalancesView.Action.Cheating.Input.SubTitle: "Digite para definir um novo **saldo**"
-#BalancesView.Action.Cheating.Input.ActionBar: "Ex. **1200** para **%value%**"
+BalancesView.Action.Cheating.Input.ActionBar: "Ex. **1200** para **%value%**"
