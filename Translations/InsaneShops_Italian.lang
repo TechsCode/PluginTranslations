@@ -106,7 +106,7 @@ actionBarSettingsView.create.custom.title.main: "Crea la barra delle azioni del 
 actionBarSettingsView.create.custom.title.sub: "Digita una nuova barra delle azioni"
 actionBarSettingsView.open.title: "Apri la barra delle azioni del negozio"
 actionBarSettingsView.open.lore.leftclick: "**Clic sinistro** per modificare"
-actionBarSettingsView.open.lore.press.q: "**Premi Q** per **reimpostare**""
+actionBarSettingsView.open.lore.press.q: "**Premi Q** per **reimpostare**"
 actionBarSettingsView.open.lore.format: "Formato:"
 actionBarSettingsView.open.lore.format.description: "%formatDescription%"
 actionBarSettingsView.open.custom.title.main: "Apri la barra delle azioni del negozio"
