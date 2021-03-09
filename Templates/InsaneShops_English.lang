@@ -137,3 +137,10 @@ generalSettingsPane.actionbar.rightclick: "**Right Click** to **edit** Actionbar
 generalSettingsPane.actionbar.create: "Create Shop Actionsbar"
 generalSettingsPane.actionbar.open: "Open Shop Actionbar"
 generalSettingsPane.actionbar.description: "These notes will show when a player is looking at a chest"
+generalSettingsPane.blockedWorlds.title: "Blocked Worlds"
+generalSettingsPane.blockedWorlds.lore.leftclick: "**Left Click** to block Worlds from shop creation"
+generalSettingsPane.blockedWorlds.lore.list: "Blocked Worlds:"
+blockedWorldsDialog.title: "Block World
+blockedWorldsDialog.subtitle: "Type in the **World Name**"
+blockedWorldsDialog.world.exclude: "**%WorldName%** is now excluded from shop creation"
+blockedWorldsDialog.world.include: "**%WorldName%** is now included again in shop creation"

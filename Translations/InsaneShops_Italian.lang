@@ -129,3 +129,10 @@ generalSettingsPane.actionbar.rightclick: "**Clic destro** per **modificare** le
 generalSettingsPane.actionbar.create: "Crea barra delle azioni del negozio"
 generalSettingsPane.actionbar.open: "Apri la barra delle azioni del negozio"
 generalSettingsPane.actionbar.description: "Queste note verranno visualizzate quando un giocatore guarda una cassa"
+#generalSettingsPane.blockedWorlds.title: "Blocked Worlds"
+#generalSettingsPane.blockedWorlds.lore.leftclick: "**Left Click** to block Worlds from shop creation"
+#generalSettingsPane.blockedWorlds.lore.list: "Blocked Worlds:"
+#blockedWorldsDialog.title: "Block World
+#blockedWorldsDialog.subtitle: "Type in the **World Name**"
+#blockedWorldsDialog.world.exclude: "**%WorldName%** is now excluded from shop creation"
+#blockedWorldsDialog.world.include: "**%WorldName%** is now included again in shop creation"

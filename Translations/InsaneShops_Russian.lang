@@ -129,3 +129,10 @@ generalSettingsPane.actionbar.rightclick: "**Правый клик**, чтобы
 generalSettingsPane.actionbar.create: "Создать Панель Магазина"
 generalSettingsPane.actionbar.open: "Открыть Панель Магазина"
 generalSettingsPane.actionbar.description: "Эти заметки будут отображаться при просмотре на сундук"
+#generalSettingsPane.blockedWorlds.title: "Blocked Worlds"
+#generalSettingsPane.blockedWorlds.lore.leftclick: "**Left Click** to block Worlds from shop creation"
+#generalSettingsPane.blockedWorlds.lore.list: "Blocked Worlds:"
+#blockedWorldsDialog.title: "Block World
+#blockedWorldsDialog.subtitle: "Type in the **World Name**"
+#blockedWorldsDialog.world.exclude: "**%WorldName%** is now excluded from shop creation"
+#blockedWorldsDialog.world.include: "**%WorldName%** is now included again in shop creation"

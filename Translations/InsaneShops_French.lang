@@ -129,3 +129,10 @@ generalSettingsPane.actionbar.rightclick: "**Click droit** pour **modifier** Act
 generalSettingsPane.actionbar.create: "Créer la barre d'actions de la boutique"
 generalSettingsPane.actionbar.open: "Ouvrir la barre d'actions de la boutique"
 generalSettingsPane.actionbar.description: "Ces notes s'afficheront lorsqu'un joueur regarde un coffre"
+#generalSettingsPane.blockedWorlds.title: "Blocked Worlds"
+#generalSettingsPane.blockedWorlds.lore.leftclick: "**Left Click** to block Worlds from shop creation"
+#generalSettingsPane.blockedWorlds.lore.list: "Blocked Worlds:"
+#blockedWorldsDialog.title: "Block World
+#blockedWorldsDialog.subtitle: "Type in the **World Name**"
+#blockedWorldsDialog.world.exclude: "**%WorldName%** is now excluded from shop creation"
+#blockedWorldsDialog.world.include: "**%WorldName%** is now included again in shop creation"
