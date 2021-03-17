@@ -59,6 +59,7 @@ BalancesView.Action.Pay.Fail: "К сожалению, произошла оши�
 BalancesView.Action.Cheating: "**Нажмите Q**, чтобы **установить** ваш счет"
 BalancesView.Action.Cheating.Input.SubTitle: "Введите число, чтобы установить **баланс**"
 BalancesView.Action.Cheating.Input.ActionBar: "Например: **1200** изменить на **%value%**"
+#BalancesView.Argument.Balances: "Balances"
 AccountView.model.title: "Аккаунт > %target%"
 AccountView.argument.none: "Нет"
 AccountView.currencyButton.lore.leftClick: "**Левый клик**, чтобы **установить** счет"

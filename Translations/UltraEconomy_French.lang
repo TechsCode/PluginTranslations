@@ -59,6 +59,7 @@ BalancesView.Action.Pay.Fail: "Malheureusement, il y a eu un problème lors de c
 BalancesView.Action.Cheating: "**Appuyez sur Q** pour **définir** votre solde"
 BalancesView.Action.Cheating.Input.SubTitle: "Écrire pour définir un nouveau **solde**"
 BalancesView.Action.Cheating.Input.ActionBar: "Ex. **1200** pour **%value%**"
+#BalancesView.Argument.Balances: "Balances"
 #AccountView.model.title: "Account > %target%"
 #AccountView.argument.none: "None"
 #AccountView.currencyButton.lore.leftClick: "**Left Click** to **set** balance"
