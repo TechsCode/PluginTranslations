@@ -7,5 +7,6 @@ TeleportCommand.notPlayer.world.unloaded: "O mundo **%world%** não está carreg
 TeleportCommand.notPlayer.world.doesNotExist: "O mundo **%world%** não existe"
 TeleportCommand.argument.world: "<Mundo>"
 TeleportCommand.argument.player: "<Jogador>"
+#TeleportCommand.noPermission: "You don´t have **access** to that command"
 Placeholder.currentRegionName.description: "Nome da região atual"
 Placeholder.currentRegionName.noRegion: "Sem região"

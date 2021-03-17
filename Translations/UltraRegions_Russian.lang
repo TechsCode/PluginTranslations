@@ -7,5 +7,6 @@ TeleportCommand.notPlayer.world.unloaded: "Мир **%world%** в данный м
 TeleportCommand.notPlayer.world.doesNotExist: "Мир **%world%** не существует"
 TeleportCommand.argument.world: "<Мир>"
 TeleportCommand.argument.player: "<Игрок>"
+#TeleportCommand.noPermission: "You don´t have **access** to that command"
 Placeholder.currentRegionName.description: "Название региона"
 Placeholder.currentRegionName.noRegion: "Не регион"
