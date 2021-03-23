@@ -106,7 +106,7 @@
 #actionBarSettingsView.create.custom.title.sub: "Type in a new actionbar"
 #actionBarSettingsView.open.title: "Open Shop Actionbar"
 #actionBarSettingsView.open.lore.leftclick: "**Left Click** to edit"
-#actionBarSettingsView.open.lore.press.q: "**Press Q** to **reset**""
+#actionBarSettingsView.open.lore.press.q: "**Press Q** to **reset**"
 #actionBarSettingsView.open.lore.format: "Format:"
 #actionBarSettingsView.open.lore.format.description: "%formatDescription%"
 #actionBarSettingsView.open.custom.title.main: "Open Shop Actionbar"
@@ -132,7 +132,7 @@
 #generalSettingsPane.blockedWorlds.title: "Blocked Worlds"
 #generalSettingsPane.blockedWorlds.lore.leftclick: "**Left Click** to block Worlds from shop creation"
 #generalSettingsPane.blockedWorlds.lore.list: "Blocked Worlds:"
-#blockedWorldsDialog.title: "Block World
+#blockedWorldsDialog.title: "Block World"
 #blockedWorldsDialog.subtitle: "Type in the **World Name**"
 #blockedWorldsDialog.world.exclude: "**%WorldName%** is now excluded from shop creation"
 #blockedWorldsDialog.world.include: "**%WorldName%** is now included again in shop creation"

@@ -7,7 +7,7 @@ TeleportCommand.notPlayer.world.unloaded: "Die Welt **%world%** ist derzeit nich
 TeleportCommand.notPlayer.world.doesNotExist: "Die Welt **%world%** existiert nicht"
 TeleportCommand.argument.world: "<Welt>"
 TeleportCommand.argument.player: "<Spieler>"
-#TeleportCommand.noPermission: "You don´t have **access** to that command"
+#TeleportCommand.noPermission: "You don't have **access** to that command"
 Placeholder.currentRegionName.description: "Name der aktuellen Region"
 Placeholder.currentRegionName.noRegion: "Keine Region"
 #SelectionTypeSelector.cubeTypeButton.name: "Cube Shaped Selection"

@@ -8,7 +8,7 @@
 #command.payBalance.consoleExecution: "This command cannot be run through the console"
 #command.payBalance.minAmount: "You cannot pay **less** than %value%"
 #command.payBalance.playerOffline: "This Player is not online"
-#command.payBalance.payYourself: "You can´t send money to **yourself!**"
+#command.payBalance.payYourself: "You can't send money to **yourself!**"
 #command.payBalance.successful.send: "You have successfully sent **%value%** to **%target%**"
 #command.payBalance.successful.receive: "You got **%value%** from **%sender%**"
 #command.payBalance.issue: "Unfortunately there was an issue making that transaction"
