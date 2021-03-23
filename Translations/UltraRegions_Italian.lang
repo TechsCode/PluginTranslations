@@ -1,4 +1,4 @@
-TeleportCommand.successful: "Teletrasportato con successo **%target%** in  **%world%**"
+TeleportCommand.successful: "Teletrasportato con successo **%target%** in **%world%**"
 TeleportCommand.target.notOnline: "Il giocatore **%target%** non è online"
 TeleportCommand.world.unloaded: "Il mondo **%world%** non è attualmente caricato"
 TeleportCommand.world.doesNotExist: "Il mondo **%world%** non esiste"
