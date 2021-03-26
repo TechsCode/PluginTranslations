@@ -116,7 +116,7 @@ generalSettingsPane.storage.lore.limit.set: "Нажмите, чтобы уста
 generalSettingsPane.storage.lore.limit.remove: "Нажмите, чтобы **удалить** лимит"
 generalSettingsPane.storage.lore.items.max.title: "Максимум предметов: **%max%**"
 generalSettingsPane.storage.lore.items.max.unlimited: "Безлимитно"
-generalSettingsPane.storage.lore.items.max.items: "Предметы"
+generalSettingsPane.storage.lore.items.max.items: "%limit% Предметы"
 generalSettingsPane.storage.lore.description: "Лимит предметов, которые может выставить Магазин"
 generalSettingsPane.input.title.main: "Количество Предметов"
 generalSettingsPane.input.title.sub: "Введите число - лимит"
