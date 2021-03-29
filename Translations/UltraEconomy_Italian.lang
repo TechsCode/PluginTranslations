@@ -59,7 +59,7 @@ BalancesView.Action.Pay.Fail: "Sfortunatamente c'è stato un problema nel proces
 BalancesView.Action.Cheating: "**Premi Q** per **impostare** il tuo bilancio"
 BalancesView.Action.Cheating.Input.SubTitle: "Scrivi in chat per impostare il nuovo **bilancio**"
 BalancesView.Action.Cheating.Input.ActionBar: "Es. **1200** per **%value%**"
-#BalancesView.Argument.Balances: "Balances"
+BalancesView.Argument.Balances: "Bilanci"
 AccountView.model.title: "Account > %target%"
 AccountView.argument.none: "Vuoto"
 AccountView.currencyButton.lore.leftClick: "**Tasto Destro** per **impostare** un bilancio"
