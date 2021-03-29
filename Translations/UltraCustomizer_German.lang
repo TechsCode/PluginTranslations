@@ -1,4 +1,4 @@
-#Overview.folderButton.lore.click: "Click to see **options**
+#Overview.folderButton.lore.click: "Click to see **options**"
 #Overview.folderButton.lore.selectedFolder: "This folder is **currently selected**"
 #Overview.folderButton.lore.description.firstLine: "Store your GUI's, Scripts and"
 #Overview.folderButton.lore.description.secondLine: "Interfaces within a folder."
