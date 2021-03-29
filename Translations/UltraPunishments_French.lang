@@ -162,3 +162,6 @@ warningsListView.item.actionNoPermission: "Vous ne disposez pas des permssion po
 muteChatMessage.local.temporary: "Le chat a été désactivé"
 unmuteChatMessage.local.temporary: "Le chat a été réactivé"
 muteChatMessageCommand.local.temporary: "Le chat est mis en sourdine"
+#DurationArgument: "<Duration>"
+#PlayerArgument: "<Player>"
+#ServerArgument: "<Server>"

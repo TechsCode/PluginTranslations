@@ -162,3 +162,6 @@ warningsListView.item.actionNoPermission: "У вас недостаточно п
 muteChatMessage.local.temporary: "Чат был замьючен"
 unmuteChatMessage.local.temporary: "Чат размьючен"
 muteChatMessageCommand.local.temporary: "Чат замьючен"
+#DurationArgument: "<Duration>"
+#PlayerArgument: "<Player>"
+#ServerArgument: "<Server>"

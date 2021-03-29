@@ -162,3 +162,6 @@ warningsListView.item.actionNoPermission: "Du hast keine Berechtigungen um diese
 #muteChatMessage.local.temporary: "The chat has been muted"
 #unmuteChatMessage.local.temporary: "The chat has been unmuted"
 #muteChatMessageCommand.local.temporary: "The chat is muted"
+#DurationArgument: "<Duration>"
+#PlayerArgument: "<Player>"
+#ServerArgument: "<Server>"

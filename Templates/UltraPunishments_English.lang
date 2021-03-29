@@ -170,3 +170,6 @@ warningsListView.item.actionNoPermission: "You dont have permissions to remove t
 muteChatMessage.local.temporary: "The chat has been muted"
 unmuteChatMessage.local.temporary: "The chat has been unmuted"
 muteChatMessageCommand.local.temporary: "The chat is muted"
+DurationArgument: "<Duration>"
+PlayerArgument: "<Player>"
+ServerArgument: "<Server>"
