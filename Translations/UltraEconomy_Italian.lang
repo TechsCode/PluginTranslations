@@ -151,3 +151,8 @@ MobDropView.moneyButton.input.right.toSmall: "Il valore deve essere maggiore di 
 MobDropView.moneyButton.input.right.negative: "Il valore non può essere **negativo**"
 MobDropView.moneyButton.input.right.invalid: "L'input **%input%** non è un numero"
 MobDropView.moneyButton.input.q.title: "Drop > Cambia valuta"
+#MobDropListView.model.disableMobDropsInWorlds.name: "Disable MobDrops in Worlds"
+#MobDropListView.model.disableMobDropsInWorlds.lore: "**Left Click** to disable MobDrops in specific Worlds"
+#WorldSelectorView.title: "Worlds > Select World"
+#WorldSelectorView.lore.enabled: "Click to **disabled** MobDrops in this world"
+#WorldSelectorView.lore.disabled: "Click to **enable** MobDrops in this world"
