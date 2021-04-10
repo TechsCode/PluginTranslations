@@ -198,4 +198,3 @@
 #warnMessage.local.reason: "Successfully warned **%player%**, Reason: **%reason%**"
 #warnMessage.server.noReason: "Successfully warned **%player%** on **%server%**"
 #warnMessage.server.reason: "Successfully warned **%player%** on **%server%**, Reason: **%reason%**"
-#
