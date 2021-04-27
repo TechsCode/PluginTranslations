@@ -1,4 +1,4 @@
- backButton.action: "Cliquer pour revenir"
+backButton.action: "Cliquer pour revenir"
 backButton.title: "Retour"
 command.noConsole: "Cette commande ne peut pas être exécutée par la console"
 command.noPermission: "Vous n'avez pas **accès** à cette commande"
