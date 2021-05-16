@@ -1,3 +1,6 @@
+#ShopAppearance.format.available: "Available"
+#ShopAppearance.format.buy: "Buy"
+#ShopAppearance.format.sellFor: "Sell for"
 actionBarNoticesRegistry.default.create: "**Zmáčkni shift a levé myšítko** pro vytvoření obchodu"
 actionBarNoticesRegistry.default.open: "**Klikni pravým myšítkem** pro otevření tohoto **obchodu**"
 actionBarSettingsView.create.custom.title.main: "Vytvořit Actionbar Obchodu"

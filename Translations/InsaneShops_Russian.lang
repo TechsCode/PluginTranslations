@@ -1,3 +1,6 @@
+#ShopAppearance.format.available: "Available"
+#ShopAppearance.format.buy: "Buy"
+#ShopAppearance.format.sellFor: "Sell for"
 actionBarNoticesRegistry.default.create: "**Красться + Левый клик** чтобы создать новый Магазин"
 actionBarNoticesRegistry.default.open: "**Правый клик**, чтобы открыть **Магазин**"
 actionBarSettingsView.create.custom.title.main: "Панель создания магазина"
