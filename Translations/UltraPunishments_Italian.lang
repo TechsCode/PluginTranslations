@@ -1,3 +1,11 @@
+#
+# Official Language File
+# To make your own language file, copy this file and edit the copy
+#
+# Changes made to this file will be reset!
+# Do not edit it!
+#
+
 banBroadcast.local.permanently: "**%player%** è stato permanentemente bannato da **%issuer%**"
 banBroadcast.local.permanentlyReason: "**%player%** è stato permanentemente bannato da **%issuer%**, Motivo: **%reason%**"
 banBroadcast.local.temporary: "**%player%** è stato bannato per **%duration%** da **%issuer%**"

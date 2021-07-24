@@ -1,3 +1,11 @@
+#
+# Official Language File
+# To make your own language file, copy this file and edit the copy
+#
+# Changes made to this file will be reset!
+# Do not edit it!
+#
+
 AddonsMarketplaceListView.button.lore.addon.install: "Cliquez pour **installer** ce module"
 AddonsMarketplaceListView.button.lore.addon.installed: "Ce module est **installé**"
 AddonsMarketplaceListView.button.lore.addon.update: "Cliquez pour **mettre à jour** ce module"

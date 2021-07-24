@@ -1,3 +1,11 @@
+#
+# Official Language File
+# To make your own language file, copy this file and edit the copy
+#
+# Changes made to this file will be reset!
+# Do not edit it!
+#
+
 banBroadcast.local.permanently: "Игрок **%player%** был навсегда забанен пользователем **%issuer%**"
 banBroadcast.local.permanentlyReason: "Игрок **%player%** был навсегда забанен пользователем **%issuer%**. Причина: **%reason%**"
 banBroadcast.local.temporary: "Игрок **%player%** был забанен пользователем **%issuer%** на срок **%duration%**"

@@ -1,3 +1,11 @@
+#
+# Official Language File
+# To make your own language file, copy this file and edit the copy
+#
+# Changes made to this file will be reset!
+# Do not edit it!
+#
+
 GeneralSettingsPane.name: "Algemeen"
 GeneralSettingsPane.soundButton.lore.click: "Klik om het geluid te veranderen"
 GeneralSettingsPane.soundButton.lore.currentSound: "Huidig geluid"

@@ -1,3 +1,11 @@
+#
+# Official Language File
+# To make your own language file, copy this file and edit the copy
+#
+# Changes made to this file will be reset!
+# Do not edit it!
+#
+
 AddonsMarketplaceListView.button.lore.addon.install: "Нажмите, чтобы **установить** это дополнение"
 AddonsMarketplaceListView.button.lore.addon.installed: "Дополнение **установлено**"
 AddonsMarketplaceListView.button.lore.addon.update: "Нажмите, чтобы **обновить** это дополнение"

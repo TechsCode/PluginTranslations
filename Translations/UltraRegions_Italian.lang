@@ -1,3 +1,11 @@
+#
+# Official Language File
+# To make your own language file, copy this file and edit the copy
+#
+# Changes made to this file will be reset!
+# Do not edit it!
+#
+
 AddFlagListView.button.click: "**Clicca** per aggiungere questa flag"
 AddFlagListView.flagValue.allowed: "Di default è **attivata**"
 AddFlagListView.flagValue.disallowed: "Di default è **disattivata**"
