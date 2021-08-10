@@ -9,8 +9,6 @@
 #ShopAppearance.format.available: "Available"
 #ShopAppearance.format.buy: "Buy"
 #ShopAppearance.format.sellFor: "Sell for"
-actionBarNoticesRegistry.default.create: "**Sneak + Linksklick** um ein Shop zu erstellen"
-actionBarNoticesRegistry.default.open: "**Rechtsklick** um den Shop zu **öffnen**"
 #actionBarSettingsView.create.custom.title.main: "Create Shop Actionbar"
 #actionBarSettingsView.create.custom.title.sub: "Type in a new actionbar"
 #actionBarSettingsView.create.lore.format: "Format:"

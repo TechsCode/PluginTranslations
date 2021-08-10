@@ -6,8 +6,6 @@
 # Do not edit it!
 #
 
-actionBarNoticesRegistry.default.create: "**S'accroupir + Clic gauche** pour créer une nouvelle boutique"
-actionBarNoticesRegistry.default.open: "**Clic droit** pour ouvrir cette **boutique**"
 actionBarSettingsView.create.custom.title.main: "Créer la barre d'action de la boutique"
 actionBarSettingsView.create.custom.title.sub: "Tapez une nouvelle barre d'action"
 actionBarSettingsView.create.lore.format: "Format:"

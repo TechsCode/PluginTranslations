@@ -9,8 +9,6 @@
 ShopAppearance.format.available: "Disponible"
 ShopAppearance.format.buy: "Comprar"
 ShopAppearance.format.sellFor: "Vender por"
-actionBarNoticesRegistry.default.create: "**Agacharse + Click Izquiedo** para crear una nueva tienda"
-actionBarNoticesRegistry.default.open: "**Click Derecho** para abrir esta **tienda**"
 actionBarSettingsView.create.custom.title.main: "Actionbar de Crear Tienda"
 actionBarSettingsView.create.custom.title.sub: "Escribe un nuevo actionbar"
 actionBarSettingsView.create.lore.format: "Formato:"
