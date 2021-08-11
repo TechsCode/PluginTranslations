@@ -1,9 +1,9 @@
 #
-# Official Language File
-# To make your own language file, copy this file and edit the copy
+# Archivo de Lenguaje Oficial
+# Para crear su propio archivo de idioma, copie este archivo y edite la copia.
 #
-# Changes made to this file will be reset!
-# Do not edit it!
+# ¡Los cambios que se hagan en este archivo seran reiniciados!
+# ¡No edites esto!
 #
 
 AddFlagListView.button.click: "**Click** para añadir esta regla"
