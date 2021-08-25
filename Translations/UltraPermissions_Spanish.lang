@@ -39,7 +39,7 @@
 #command.playerClearedGroups: "Cleared all groups of **%player%**"
 #command.playerNotInGroup: "The player **%player%** is not in the group **%group%**"
 #command.playerNotSuperAdmin: "**%player%** is not a superadmin"
-#command.playerRemoveGroup: "The player **%player%** is not in the group **%group%**"
+#command.playerRemoveGroup: "Successfully removed **%player%** from **%group%**"
 #command.playerRemoveSuperAdmin: "Successfully removed **%player%** from the superadmins"
 #command.playerSetGroups: "Set the groups **%groups%** for **%player%**"
 #command.playerSetPrefix.clear: "Cleared the prefix of **%user%**"
