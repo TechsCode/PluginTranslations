@@ -39,7 +39,7 @@ command.playerAlreadySuperAdmin: "Игрок **%player%** уже имеет пр
 command.playerClearedGroups: "Очищены все группы у игрока **%player%**"
 command.playerNotInGroup: "Игрок **%player%** не в группе **%group%**"
 command.playerNotSuperAdmin: "Игрок **%player%** не умеет прав СуперАдминистратора"
-command.playerRemoveGroup: "Игрок **%player%** не в группе **%group%**"
+command.playerRemoveGroup: "Successfully removed **%player%** from **%group%**"
 command.playerRemoveSuperAdmin: "Права СуперАдминистратора убраны у игрока **%player%**"
 command.playerSetGroups: "Установлены группы **%groups%** для игрока **%player%**"
 command.playerSetPrefix.clear: "Очищен префикс у игрока **%user%**"
