@@ -1,9 +1,11 @@
 #
-# Official Language File
-# To make your own language file, copy this file and edit the copy
+# File ufficiale della lingua
+# Per creare il tuo file di lingua, copia questo file e modifica la copia 
 #
-# Changes made to this file will be reset!
-# Do not edit it!
+# Le modifiche apportate a questo file verranno ripristinate! 
+# Non modificarlo! 
+#
+# Traduzione fatta da Fedee#9989
 #
 
 backButton.action: "Clicca per tornare indietro"
@@ -23,7 +25,7 @@ customisationPane.prefix.disableAction: "**Premi Q** per **disabilitare** il pre
 customisationPane.prefix.enableAction: "Clicca per **abilitare** il prefisso"
 customisationPane.prefix.resetAction: "**Click sinistro** per **resettare** il prefisso"
 customisationPane.prefix.title: "Prefisso"
-customisationPane.title: "Perzonalizzazione"
+customisationPane.title: "Personalizzazione"
 day: "giorno"
 days: "giorni"
 disable: "disattiva"
@@ -85,11 +87,11 @@ mysqlPane.test.maximumPoolSize: "Numero massimo di Pool: **%**"
 mysqlPane.test.minimumIdle: "Minimo inattivo: **%**"
 #mysqlPane.test.password: "Password: **%**"
 mysqlPane.test.port: "Porta: **%**"
-#mysqlPane.test.ssl: "SSL: **%**"
+mysqlPane.test.ssl: "SSL: **%**"
 mysqlPane.test.title: "Prova i cambiamenti"
-#mysqlPane.test.username: "Username: **%**"
-#mysqlPane.username: "username"
-#mysqlSetup.actionBar: "Default: **%**"
+mysqlPane.test.username: "Username: **%**"
+mysqlPane.username: "username"
+mysqlSetup.actionBar: "Default: **%**"
 mysqlSetup.subtitle: "Digita **%** nella chat"
 mysqlSetup.title: "Imposta MySQL"
 none: "nessuna"
@@ -112,18 +114,18 @@ settings: "impostazioni"
 settingsView.select.action: "Clicca per mostrare le impostazioni"
 settingsView.select.indicator: "È **selezionata** questa pagina"
 settingsView.title: "Impostazioni > %"
-#ticksPickerView.addFiveTicks: "Add 5 Ticks"
-#ticksPickerView.addHundredTicks: "Add 100 Ticks"
-#ticksPickerView.addOneTick: "Add 1 Tick"
-#ticksPickerView.addTenTicks: "Add 10 Ticks"
-#ticksPickerView.confirm.action: "Click to confirm"
-#ticksPickerView.confirm.title: "Confirm"
-#ticksPickerView.decrementAction: "Click to remove"
-#ticksPickerView.incrementAction: "Click to add"
-#ticksPickerView.removeFiveTicks: "Remove 5 Ticks"
-#ticksPickerView.removeHundredTicks: "Remove 100 Ticks"
-#ticksPickerView.removeOneTick: "Remove 1 Tick"
-#ticksPickerView.removeTenTicks: "Remove 10 Ticks"
+ticksPickerView.addFiveTicks: "Aggiungi 5 Ticks"
+ticksPickerView.addHundredTicks: "Aggiungi 100 Ticks"
+ticksPickerView.addOneTick: "Aggiungi 1 Tick"
+ticksPickerView.addTenTicks: "Aggiungi 10 Ticks"
+ticksPickerView.confirm.action: "Clicca per confermare"
+ticksPickerView.confirm.title: "Conferma"
+ticksPickerView.decrementAction: "Clicca per rimuovere"
+ticksPickerView.incrementAction: "Clicca per aggiungere"
+ticksPickerView.removeFiveTicks: "Rimuovi 5 Ticks"
+ticksPickerView.removeHundredTicks: "Rimuovi 100 Ticks"
+ticksPickerView.removeOneTick: "Rimuovi 1 Tick"
+ticksPickerView.removeTenTicks: "Rimuovi 10 Ticks"
 timePickerView.addDay: "Aggiungi 1 giorno"
 timePickerView.addHour: "Aggiungi 1 ora"
 timePickerView.addMinute: "Aggiungi 1 minuto"
