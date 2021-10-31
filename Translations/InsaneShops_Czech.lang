@@ -5,6 +5,7 @@
 # Changes made to this file will be reset!
 # Do not edit it!
 #
+
 #actionBarSettingsView.create.lore.format.description: "%formatDescription%"
 #actionBarSettingsView.open.lore.format.description: "%formatDescription%"
 #generalSettingsPane.actionbar.title: "Action Bar Notices"

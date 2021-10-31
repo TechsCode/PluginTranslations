@@ -5,6 +5,7 @@
 # Changes made to this file will be reset!
 # Do not edit it!
 #
+
 #generalSettingsPane.additionalFees.input.title.main.creationCost: "Shop Creation Cost"
 #generalSettingsPane.additionalFees.input.title.main.teleportToShop: "Teleport To Shop Cost"
 #generalSettingsPane.additionalFees.input.title.sub: "Type in a value as price"

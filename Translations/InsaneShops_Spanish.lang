@@ -4,6 +4,7 @@
 #
 # ¡Los cambios que se hagan en este archivo seran reiniciados!
 # ¡No edites esto!
+#
 
 #generalSettingsPane.additionalFees.input.title.main.creationCost: "Shop Creation Cost"
 #generalSettingsPane.additionalFees.input.title.main.teleportToShop: "Teleport To Shop Cost"

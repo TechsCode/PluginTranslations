@@ -5,6 +5,7 @@
 # Changes made to this file will be reset!
 # Do not edit it!
 #
+
 actionBarSettingsView.create.custom.title.main: "Create Shop Actionbar"
 actionBarSettingsView.create.custom.title.sub: "Type in a new actionbar"
 actionBarSettingsView.create.lore.format: "Format:"

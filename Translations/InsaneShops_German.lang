@@ -5,6 +5,7 @@
 # Changes made to this file will be reset!
 # Do not edit it!
 #
+
 actionBarSettingsView.create.custom.title.main: "Shop Aktionsleiste erstellen"
 actionBarSettingsView.create.custom.title.sub: "Gib eine neue Aktionsleiste ein"
 actionBarSettingsView.create.lore.format: "Format:"
