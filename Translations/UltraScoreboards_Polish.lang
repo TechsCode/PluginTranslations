@@ -5,16 +5,18 @@
 # Changes made to this file will be reset!
 # Do not edit it!
 #
+# Translated by crosby
 
-#Overview.scoreboardButton.name: "Scoreboards"
-#Overview.scoreboardButton.lore.click: "Click to view all **Scoreboards**"
-#Overview.scoreboardButton.lore.createdSoFar: "%board% created to far"
-#Overview.scoreboardButton.lore.scoreboard: "Scoreboard"
-#Overview.scoreboardButton.lore.scoreboards: "Scoreboards"
-#Overview.settingsButton.name: "Settings"
-#Overview.settingsButton.lore.click: "Click to view **Settings**"
-#Overview.usersButton.name: "Users"
-#Overview.usersButton.lore.click: "Click to view all **Users**"
-#Overview.usersButton.lore.registered: "%player% registered so far"
-#Overview.usersButton.lore.registered.player: "Player"
-#Overview.usersButton.lore.registered.players: "Players"
+
+Overview.scoreboardButton.name: "Scoreboards"
+Overview.scoreboardButton.lore.click: "Kliknij, aby wyświetlić wszystkie **Scoreboardy**"
+Overview.scoreboardButton.lore.createdSoFar: "%board% stworzonych tabel"
+Overview.scoreboardButton.lore.scoreboard: "Scoreboard"
+Overview.scoreboardButton.lore.scoreboards: "Scoreboardy"
+Overview.settingsButton.name: "Ustawienia"
+Overview.settingsButton.lore.click: "Kliknij, aby wyświetlić **Ustawienia**"
+Overview.usersButton.name: "Gracze"
+Overview.usersButton.lore.click: "Kliknij, aby wyświetlić wszystkich **Graczy**"
+Overview.usersButton.lore.registered: "%player% zarejestrowanych graczy"
+Overview.usersButton.lore.registered.player: "Gracz"
+Overview.usersButton.lore.registered.players: "Gracze"
