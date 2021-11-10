@@ -6,6 +6,11 @@
 # Do not edit it!
 #
 
+#moneySelectionView.item: "Item"
+#moneySelectionView.pricePer: "Price Per"
+#ShopInteractView.shopName: "Shop"
+#shopListView.shopList: "Shops > List"
+#shopSettingsView.getTitle: "Chest > Select Currency"
 actionBarSettingsView.create.custom.title.main: "Shop Aktionsleiste erstellen"
 actionBarSettingsView.create.custom.title.sub: "Gib eine neue Aktionsleiste ein"
 actionBarSettingsView.create.lore.format: "Format:"

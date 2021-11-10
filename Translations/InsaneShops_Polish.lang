@@ -8,6 +8,11 @@
 # Created by Mich3l3k
 #
 
+#moneySelectionView.pricePer: "Price Per"
+#moneySelectionView.item: "Item"
+#ShopInteractView.shopName: "Shop"
+#shopSettingsView.getTitle: "Chest > Select Currency"
+#shopListView.shopList: "Shops > List"
 actionBarNoticesRegistry.default.create: "**Kucnij + kliknij lewy przycisk**, aby utworzyć nowy sklep"
 actionBarNoticesRegistry.default.open: "**Kliknij prawym przyciskiem myszy**, aby otworzyć **sklep**"
 actionBarSettingsView.create.custom.title.main: "Stwórz pasek działań sklepu"

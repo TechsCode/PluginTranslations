@@ -6,6 +6,11 @@
 # Do not edit it!
 #
 
+#moneySelectionView.item: "Item"
+#moneySelectionView.pricePer: "Price Per"
+#ShopInteractView.shopName: "Shop"
+#shopListView.shopList: "Shops > List"
+#shopSettingsView.getTitle: "Chest > Select Currency"
 generalSettingsPane.additionalFees.input.title.main.creationCost: "Costo di creazione dello shop"
 generalSettingsPane.additionalFees.input.title.main.teleportToShop: "Costo di teletrasporto"
 generalSettingsPane.additionalFees.input.title.sub: "Scrivi un valore come prezzo"
