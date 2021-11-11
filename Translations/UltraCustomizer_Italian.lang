@@ -1,12 +1,12 @@
 #
-#File ufficiale della lingua
-#Per creare il tuo file di lingua, copia questo file e modifica la copia 
-
-#Le modifiche apportate a questo file verranno ripristinate! 
-#Non modificarlo! 
-
-#Traduzione fatta da Fedee9989
-
+# File ufficiale della lingua
+# Per creare il tuo file di lingua, copia questo file e modifica la copia 
+#
+# Le modifiche apportate a questo file verranno ripristinate! 
+# Non modificarlo! 
+#
+# Traduzione fatta da Fedee9989
+#
 
 ArgumentsGet.argument: "Argomenti"
 ArgumentsGet.argumentNumber: "Numero Argomento"
@@ -704,7 +704,7 @@ Overview.folderButton.lore.description.firstLine: "Stora le tue GUIs, Script"
 Overview.folderButton.lore.description.fourthLine: "e condividi le tue creazioni"
 Overview.folderButton.lore.description.secondLine: "in una cartella."
 Overview.folderButton.lore.description.thirdLine: "Questo ti da il permesso di esportarla in seguito"
-Overview.folderButton.lore.selectedFolder: "Questa cartella è *stata selezionata**"
+Overview.folderButton.lore.selectedFolder: "Questa cartella è **stata selezionata**"
 Overview.importFolderButton.lore: "Clicca per importare cartelle"
 Overview.importFolderButton.name: "Importa Cartelle"
 Overview.interfacesButton.lore.button: "Bottone"
