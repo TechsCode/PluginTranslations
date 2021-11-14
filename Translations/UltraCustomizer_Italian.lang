@@ -659,7 +659,7 @@ InstalledAddonsView.lore.addon.requirement: "Questa addon ha bisogno **%requirem
 InstalledAddonsView.lore.pressQ: "**Premi Q** per **eliminarla**"
 InterfaceCommand.interfaceNotFound: "Nessuna addon trovata col nome **%interfaceName%**"
 InterfaceItem.click: "Clicca"
-InterfaceItem.unnamedItem: "Item non rinominato"
+InterfaceItem.unnamedItem: "Non Rinominato"
 ItemEditor.amountButton.lore.amount: "Quantità"
 ItemEditor.amountButton.lore.leftClick: "**Tasto Sinistro** per aumentare"
 ItemEditor.amountButton.lore.rightClick: "**Tasto Destro** per diminuire"
