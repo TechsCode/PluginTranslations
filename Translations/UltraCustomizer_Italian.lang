@@ -8,15 +8,6 @@
 # Traduzione fatta da Fedee9989
 #
 
-#MessageBrowser.leftClick: "**Left Click** to view Settings"
-#MessageBrowser.delete: "**Press Q** to **delete**"
-#MessageBrowser.editedMessage: "Edited Message:"
-#MessageBrowser.variables: "Variables:"
-#MessageBrowser.none: "None:"
-#MessageBrowser.confirmDelete: "Confirm deletion of this Message"
-#MessageBrowser.addMessage: "Add Message"
-#MessageBrowser.clickMessage: "Click to select"
-#MessageBrowser.titleMessage: "Messages"
 ArgumentsGet.argument: "Argomenti"
 ArgumentsGet.argumentNumber: "Numero Argomento"
 ArgumentsGet.desc1: "Recupera l'argomento e restituisce"
