@@ -6,6 +6,11 @@
 # 不要編輯它！
 #
 
+#TimePickerView.typeIn.lore: "Use a custom duration"
+#TimePickerView.typeIn.name: "Type in duration"
+#TimePickerView.typeIn.userInput.format: "Format: **5m** (5 Minutes), **5h** (5 Hours), **5d** (5 Days)"
+#TimePickerView.typeIn.userInput.mainTitle: "Custom Duration"
+#TimePickerView.typeIn.userInput.subTitle: "Enter a duration"
 backButton.action: "點擊返回"
 backButton.title: "返回"
 command.noConsole: "後台無法使用這個指令"

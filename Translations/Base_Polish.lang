@@ -7,6 +7,11 @@
 
 #Translated by crosby & Mich3l3k
 
+#TimePickerView.typeIn.lore: "Use a custom duration"
+#TimePickerView.typeIn.name: "Type in duration"
+#TimePickerView.typeIn.userInput.format: "Format: **5m** (5 Minutes), **5h** (5 Hours), **5d** (5 Days)"
+#TimePickerView.typeIn.userInput.mainTitle: "Custom Duration"
+#TimePickerView.typeIn.userInput.subTitle: "Enter a duration"
 backButton.action: "Kliknij, aby wrócić"
 backButton.title: "Wróć"
 command.noConsole: "Ta komenda nie może być użyta w konsoli"
