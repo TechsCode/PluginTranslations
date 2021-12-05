@@ -6,6 +6,14 @@
 # Do not edit it!
 #
 
+#generalSettingsPane.priceLimit.input.title.sub: "Type in a value as limit"
+#generalSettingsPane.priceLimit.lore.currentLimit: "Current Price Limit: **%price%**"
+#generalSettingsPane.priceLimit.lore.description: "Limits the price which can be set"
+#generalSettingsPane.priceLimit.lore.leftClick: "**Left Click** to set a shop price limit"
+#generalSettingsPane.priceLimit.lore.rightClick: "**Right Click** to **remove** shop price limit"
+#generalSettingsPane.priceLimit.lore.unlimited: "Unlimited"
+#generalSettingsPane.priceLimit.title: "Shop Price Limit"
+#moneySelectionView.confirm.priceLimitExplanation: "The shop price is limited to %price%"
 #moneySelectionView.item: "Item"
 #moneySelectionView.pricePer: "Price Per"
 #ShopInteractView.shopName: "Shop"
