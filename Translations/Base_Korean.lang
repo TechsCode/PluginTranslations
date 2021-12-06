@@ -6,6 +6,16 @@
 # Do not edit it!
 #
 
+#DateTimePickerView.typeIn.name: "Type in date"
+#DateTimePickerView.typeIn.lore: "Use a custom date"
+#DateTimePickerView.typeIn.userInput.mainTitle: "Custom Date"
+#DateTimePickerView.typeIn.userInput.subTitle: "Enter a date"
+#DateTimePickerView.typeIn.userInput.format: "Format: **dd-MM-yyy HH:mm:ss**"
+#DateTimePickerView.typeIn.userInput.format.error: "There was an error parsing the date"
+#DateTimePickerView.incrementAction: "**Click** to add **1**"
+#DateTimePickerView.decrementAction: "**Click** to remove **1**"
+#DateTimePickerView.incrementByAction: "**Shift + Click** to add **%number%**"
+#DateTimePickerView.decrementByAction: "**Shift + Click** to remove **%number%**"
 #TimePickerView.typeIn.lore: "Use a custom duration"
 #TimePickerView.typeIn.name: "Type in duration"
 #TimePickerView.typeIn.userInput.format: "Format: **5m** (5 Minutes), **5h** (5 Hours), **5d** (5 Days)"
