@@ -85,7 +85,7 @@
 #CompareMaterial.name: "Compare Material"
 #CompareMaterial.result: "Result"
 #CompareMaterial.secondMaterial: "Second Material"
-#CompareString..result: "Result"
+#CompareString.result: "Result"
 #CompareString.desc1: "Will check if two Strings"
 #CompareString.desc2: "contain the same"
 #CompareString.firstString: "First String"
