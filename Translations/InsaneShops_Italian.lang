@@ -5,21 +5,21 @@
 # Le modifiche apportate a questo file verranno ripristinate! 
 # Non modificarlo! 
 #
-# Traduzione fatta da Fedee#9989
+# Traduzione fatta da Fedee#9989 & Wag ツ#0001
 #
 
-#generalSettingsPane.blockedItems.lore.leftClick: "**Left Click** to block or unblock Items from shop creation"
-#generalSettingsPane.blockedItems.lore.list: "Blocked Items:"
-#generalSettingsPane.blockedItems.lore.rightClick: "**Right Click** to remove all blocked Items"
-#generalSettingsPane.blockedItems.title: "Blocked Items"
-#generalSettingsPane.priceLimit.title: "Shop Price Limit"
-#generalSettingsPane.priceLimit.lore.leftClick: "**Left Click** to set a shop price limit"
-#generalSettingsPane.priceLimit.lore.rightClick: "**Right Click** to **remove** shop price limit"
-#generalSettingsPane.priceLimit.lore.description: "Limits the price which can be set"
-#generalSettingsPane.priceLimit.lore.currentLimit: "Current Price Limit: **%price%**"
-#generalSettingsPane.priceLimit.lore.unlimited: "Unlimited"
-#generalSettingsPane.priceLimit.input.title.sub: "Type in a value as limit"
-#moneySelectionView.confirm.priceLimitExplanation: "The shop price is limited to %price%"
+generalSettingsPane.blockedItems.lore.leftClick: "**Tasto Sinistro** per bloccare/sbloccare la creazione dello shop con un item"
+generalSettingsPane.blockedItems.lore.list: "Item Bloccati:"
+generalSettingsPane.blockedItems.lore.rightClick: "**Tasto Destro** per rimuovere tutti gli item bloccati"
+generalSettingsPane.blockedItems.title: "Item Bloccati"
+generalSettingsPane.priceLimit.title: "Limite di prezzo dello shop"
+generalSettingsPane.priceLimit.lore.leftClick: "**Tasto Sinistro** per impostare un limite di prezzo"
+generalSettingsPane.priceLimit.lore.rightClick: "**Tasto Destro** per **rimuovere** il limite di prezzo"
+generalSettingsPane.priceLimit.lore.description: "Limita il prezzo dello shop"
+generalSettingsPane.priceLimit.lore.currentLimit: "Prezzo corrente: **%price%**"
+generalSettingsPane.priceLimit.lore.unlimited: "Illimitato"
+generalSettingsPane.priceLimit.input.title.sub: "Scrivi un valore come limite"
+moneySelectionView.confirm.priceLimitExplanation: "Il prezzo dello shop è limitato a %price%"
 moneySelectionView.item: "Item"
 moneySelectionView.pricePer: "Prezzo Per"
 shopInteractView.shopName: "Shop"
