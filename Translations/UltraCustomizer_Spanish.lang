@@ -797,4 +797,3 @@ StorageTypePickerView.mysqlButton.description.firstLine: "Tu carpeta estará dis
 StorageTypePickerView.mysqlButton.description.secondLine: "en todos sus Servidores teniendo el"
 StorageTypePickerView.mysqlButton.description.thirdLine: "MySQL activado"
 StorageTypePickerView.mysqlButton.lore.click: "Click para **elegirlo**"
-StorageTypePickerView.mysqlButton.name: "MySQL"
