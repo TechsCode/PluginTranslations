@@ -645,7 +645,7 @@ InstalledAddonsView.lore.addon.installedFromCloud: "Questa addon è stata instal
 InstalledAddonsView.lore.addon.notFoundInCloud: "Questa addon non è stata trovata nel Cloud"
 InstalledAddonsView.lore.addon.requirement: "Questa addon ha bisogno **%requirement%** per caricarsi"
 InstalledAddonsView.lore.pressQ: "**Premi Q** per **eliminarla**"
-InterfaceCommand.interfaceNotFound: "Nessuna addon trovata col nome **%interfaceName%**"
+InterfaceCommand.interfaceNotFound: "Nessuna interfaccia trovata col nome **%interfaceName%**"
 InterfaceItem.click: "Clicca"
 InterfaceItem.unnamedItem: "Non Rinominato"
 ItemEditor.amountButton.lore.amount: "Quantità"
