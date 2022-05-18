@@ -6,6 +6,22 @@
 # Do not edit it!
 #
 
+#GrantGroupsAddView.title: "%group% > Add Group"
+#GrantGroupsAddView.entry.action: "Click to **add** to **%group%**"
+#GrantGroupsAddView.entry.action.time.titlePrefix: "Duration >"
+#GrantGroupsAddView.entry.action.time.noTimePhrase: "Permanent"
+#GrantGroupsListView.title: "%group% > Groups"
+#GrantGroupsListView.entry.action: "Click to **remove** group"
+#GrantGroupsListView.entry.timeTitle: "Max duration:"
+#GrantGroupsListView.entry.permanent: "Permanent"
+#GrantGroupsListView.add.title: "Add"
+#GrantGroupsListView.add.action: "Click to add group"
+#groupView.grantGroups.title: "Grant Groups"
+#groupView.grantGroups.action: "**Click** to allow granting more groups"
+#groupView.grantGroups.listTitle: "Allowed Groups:"
+#groupView.grantGroups.listItem: "- **%group%**"
+#groupView.grantGroups.listNoneItem: "- **None**"
+#groupView.grantGroups.desc: "Granting Groups to Players"
 addBungeePermissionDialog.subtitle: "Napiš oprávnění pomocí chatu"
 addBungeePermissionDialog.title: "Přidat Bungee oprávnění"
 addPermissionDialog.subtitle: "Napiš oprávnění pomocí chatu"
