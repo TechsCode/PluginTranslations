@@ -31,6 +31,8 @@
 #command.noValidGroup: "Could not find the group **%group%**"
 #command.noValidUser: "Could not find the user **%user%**"
 #command.playerAddGroup: "Added Group **%group%** to **%player%**"
+#command.playerAddGroup.notTimeAllowed: "You can't grant Group **%group%** to users for a duration of **%duration%**"
+#command.playerAddGroup.word.permanent: "Permanent"
 #command.playerAddGroupTimed: "Added Group **%group%** to **%player%** for ** %operator% %time%**"
 #command.playerAddPermission: "Added permission **%permission%** to **%player%**"
 #command.playerAddSuperAdmin: "Successfully added **%player%** as a superadmin"
