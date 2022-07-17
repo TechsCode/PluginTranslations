@@ -5,7 +5,27 @@
 # ¡Los cambios que se hagan en este archivo seran reiniciados!
 # ¡No edites esto!
 #
-
+#generalSettingsPane.blockedItems.lore.leftClick: "**Left Click** to block or unblock Items from shop creation"
+#generalSettingsPane.blockedItems.lore.list: "Blocked Items"
+#generalSettingsPane.blockedItems.lore.rightClick: "**Right Click** to remove all blocked Items"
+#generalSettingsPane.blockedItems.title: "Blocked Items"
+#generalSettingsPane.enderchestShop.lore.description: "Manage if players can use"
+#generalSettingsPane.enderchestShop.lore.description2: "enderchests as shops"
+#generalSettingsPane.enderchestShop.lore.leftClick: "**Left Click** to **%action%** enderchest shops"
+#generalSettingsPane.enderchestShop.lore.permission: "Permission: **insaneshops.shop.enderchest**"
+#generalSettingsPane.enderchestShop.title: "Enderchest Shops"
+#generalSettingsPane.priceLimit.input.title.sub: "Type in a value as limit"
+#generalSettingsPane.priceLimit.lore.currentLimit: "Current Price Limit: **%price%**"
+#generalSettingsPane.priceLimit.lore.description: "Limits the price which can be set"
+#generalSettingsPane.priceLimit.lore.leftClick: "**Left Click** to set a shop price limit"
+#generalSettingsPane.priceLimit.lore.rightClick: "**Right Click** to **remove** shop price limit"
+#generalSettingsPane.priceLimit.lore.unlimited: "Unlimited"
+#generalSettingsPane.priceLimit.title: "Shop Price Limit"
+#generalSettingsPane.remoteRestock.lore.description: "Manage if players can restock"
+#generalSettingsPane.remoteRestock.lore.description2: "their shops with /Shops"
+#generalSettingsPane.remoteRestock.lore.leftClick: "**Left Click** to **%action%** remote restock"
+#generalSettingsPane.remoteRestock.title: "Remote Restock"
+#moneySelectionView.confirm.priceLimitExplanation: "The shop price is limited to %price%"
 actionBarSettingsView.create.custom.title.main: "Crear barra de acciones de la tienda"
 actionBarSettingsView.create.custom.title.sub: "Escribe una nueva barra de acciones"
 actionBarSettingsView.create.lore.format: "Formato:"
