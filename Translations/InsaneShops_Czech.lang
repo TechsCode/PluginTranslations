@@ -18,8 +18,6 @@
 #miscPane.name: "Miscellaneous"
 #sellToShopView.confirm.sellAll.action: "Shift + Click to **sell all**"
 #shopCreationView.continue.blockedItem.explanation: "This Item is blocked for shop creation"
-#shopCreationView.continue.blockedItem.explanation: "This Item is blocked for shop creation"
-#shopCreationView.continue.blockedItem.title: "Blocked Item"
 #shopCreationView.continue.blockedItem.title: "Blocked Item"
 #UltraEconomyshopAppearance.format.available: "Available"
 #UltraEconomyshopAppearance.format.buy: "Buy"
