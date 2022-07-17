@@ -5,8 +5,6 @@
 # Le modifiche apportate a questo file verranno ripristinate! 
 # Non modificarlo! 
 #
-# Traduzione fatta da Fedee#9989 & Wag ツ#0001
-#
 #generalSettingsPane.enderchestShop.lore.description: "Manage if players can use"
 #generalSettingsPane.enderchestShop.lore.description2: "enderchests as shops"
 #generalSettingsPane.enderchestShop.lore.leftClick: "**Left Click** to **%action%** enderchest shops"
