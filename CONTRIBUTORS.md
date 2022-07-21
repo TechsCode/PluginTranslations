@@ -17,5 +17,6 @@ A lot of users spent much time on helping us adding more translations to this re
 
 [<img alt="JamesBach93" src="https://avatars.githubusercontent.com/u/18316658?v=4&s=117" width="117">](https://github.com/JamesBach93)[<img alt="Larskrs" src="https://avatars.githubusercontent.com/u/56251963?v=4&s=117" width="117">](https://github.com/Larskrs)[<img alt="chickiyeah" src="https://avatars.githubusercontent.com/u/55694044?v=4&s=117" width="117">](https://github.com/chickiyeah)[<img alt="Polda18" src="https://avatars.githubusercontent.com/u/25118993?v=4&s=117" width="117">](https://github.com/Polda18)[<img alt="reussy" src="https://avatars.githubusercontent.com/u/63428864?v=4&s=117" width="117">](https://github.com/reussy)[<img alt="dlsf" src="https://avatars.githubusercontent.com/u/35780068?v=4&s=117" width="117">](https://github.com/dlsf)
 
-[<img alt="Mitricum" src="https://avatars.githubusercontent.com/u/63245289?v=4" width="117">](https://github.com/Mitricum)
+[<img alt="Mitricum" src="https://avatars.githubusercontent.com/u/63245289?v=4&s=117" width="117">](https://github.com/Mitricum)
+
 ---
