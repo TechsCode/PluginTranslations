@@ -505,7 +505,6 @@ Overview.interfacesButton.lore.description.secondLine: "pour offrir un moyen sim
 Overview.interfacesButton.lore.description.thirdLine: "avec votre serveur"
 Overview.interfacesButton.lore.interfaces: "Interfaces:"
 Overview.interfacesButton.lore.none: "Aucun"
-Overview.interfacesButton.name: "Interfaces"
 Overview.interfacesButton.name: "Vos GUIs"
 Overview.messagesButton.lore.click: "Cliquez pour afficher les messages "
 Overview.messagesButton.lore.edited: "Édité"
