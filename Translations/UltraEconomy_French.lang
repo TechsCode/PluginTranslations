@@ -1,11 +1,10 @@
 #
-# Official Language File
-# To make your own language file, copy this file and edit the copy
+# Fichier des langues officielles
+# Pour créer votre propre fichier de langue, copiez ce fichier et modifiez la copie
 #
-# Changes made to this file will be reset!
-# Do not edit it!
+# Les modifications apportées à ce fichier seront réinitialisées !
+# Ne le modifiez pas !
 #
-
 AccountListView.argument.none: "Aucun"
 AccountListView.gui.lore.balances: "Soldes"
 AccountListView.gui.lore.deleteUser: "Confirmer la suppression de l'utilisateur %target%"
