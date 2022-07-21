@@ -5,7 +5,6 @@
 # Changes made to this file will be reset!
 # Do not edit it!
 #
-
 backButton.action: "Click to go back"
 backButton.title: "Back"
 command.noConsole: "This command cannot be run through the console"
