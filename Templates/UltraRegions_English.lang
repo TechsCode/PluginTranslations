@@ -5,7 +5,6 @@
 # Changes made to this file will be reset!
 # Do not edit it!
 #
-
 AddFlagListView.button.click: "**Click** to add this flag"
 AddFlagListView.flagValue.allowed: "By default this flag is **allowed**"
 AddFlagListView.flagValue.disallowed: "By default this flag is **disallowed**"
