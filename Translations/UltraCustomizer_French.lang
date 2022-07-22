@@ -710,7 +710,6 @@ StorageTypePickerView.mysqlButton.description.secondLine: "sur tous vos serveurs
 StorageTypePickerView.mysqlButton.description.thirdLine: "MySQL activé"
 StorageTypePickerView.mysqlButton.lore.click: "Cliquez pour **choisir**"
 StorageTypePickerView.mysqlButton.name: "MySQL"
-StorageTypePickerView.mysqlButton.name: "MySQL"
 StringSpecification.desc1: "Saisissez une nouvelle chaîne éventuellement"
 StringSpecification.desc2: "mélangée avec d’autres variables"
 StringSpecification.title: "Entrer"
