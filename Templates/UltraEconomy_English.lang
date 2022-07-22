@@ -5,7 +5,6 @@
 # Changes made to this file will be reset!
 # Do not edit it!
 #
-
 AccountListView.argument.none: "None"
 AccountListView.gui.lore.balances: "Balances"
 AccountListView.gui.lore.deleteUser: "Confirm deletion of User %target%"
