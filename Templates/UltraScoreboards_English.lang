@@ -5,7 +5,6 @@
 # Changes made to this file will be reset!
 # Do not edit it!
 #
-
 Overview.scoreboardButton.name: "Scoreboards"
 Overview.scoreboardButton.lore.click: "Click to view all **Scoreboards**"
 Overview.scoreboardButton.lore.createdSoFar: "%board% created to far"
