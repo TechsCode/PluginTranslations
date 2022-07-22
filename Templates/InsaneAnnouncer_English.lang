@@ -5,7 +5,6 @@
 # Changes made to this file will be reset!
 # Do not edit it!
 #
-
 generalSettingsPane.name: "General"
 generalSettingsPane.soundButton.lore.click: "Click to change the sound"
 generalSettingsPane.soundButton.lore.currentSound: "Current Sound"
