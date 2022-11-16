@@ -1,3 +1,12 @@
+
+=======
+#
+# Fichier des langues officielles
+# Pour créer votre propre fichier de langue, copiez ce fichier et modifiez la copie
+#
+# Les modifications apportées à ce fichier seront réinitialisées !
+# Ne le modifiez pas !
+#
 BanCommand.noBan: "Vous ne pouvez pas bannir ce joueur"
 BehaviorSettingsListView.button.bans.reports.actionbar: "Définissez à **0** pour **ignore bans**  pour ce motif."
 BehaviorSettingsListView.button.invalidNumber: "Ce n'est pas un numéro valide !"

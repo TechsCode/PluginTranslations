@@ -1,3 +1,11 @@
+#
+# Official Language File
+# To make your own language file, copy this file and edit the copy
+#
+# Changes made to this file will be reset!
+# Do not edit it!
+#
+
 AddFlagListView.button.click: "**Clicca** per aggiungere questa flag"
 AddFlagListView.flagValue.allowed: "Di default è **attivata**"
 AddFlagListView.flagValue.disallowed: "Di default è **disattivata**"
@@ -86,6 +94,9 @@ LivingEntitiesView.click: "**Clicca** per **rimuovere** quest'entità"
 LivingEntitiesView.gui.title: "Entità"
 LivingEntitiesView.health: "Vita"
 LivingEntitiesView.pressQ: "**Premi Q** per teletrasportarti"
+#LivingEntitiesView.removeAllEntities.confirmation: "Confirm removing all entities"
+#LivingEntitiesView.removeAllEntities.lore: "**Click** to **remove** all entities"
+#LivingEntitiesView.removeAllEntities.name: "Manage Entities"
 MenuArgument.usage: "<Mondi / Region>"
 #Overview.navigationButton.lore.noPermissions: "You do not have **permissions** to access this tab"
 #Overview.navigationButton.lore.select: "Click to select this Tab"

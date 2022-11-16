@@ -1,3 +1,11 @@
+#
+# Official Language File
+# To make your own language file, copy this file and edit the copy
+#
+# Changes made to this file will be reset!
+# Do not edit it!
+#
+
 AddFlagListView.button.click: "**Нажмите**, чтобы добавить этот флаг"
 AddFlagListView.flagValue.allowed: "Этот флаг по умолчанию **allow**"
 AddFlagListView.flagValue.disallowed: "Этот флаг по умолчанию **disallow**"
@@ -85,6 +93,9 @@ LivingEntitiesView.click: "**Нажмите**,чтобы **удалить** эт
 LivingEntitiesView.gui.title: "Сущности"
 LivingEntitiesView.health: "Здоровье"
 LivingEntitiesView.pressQ: "**Нажмите Q**, чтобы телепортироваться"
+#LivingEntitiesView.removeAllEntities.confirmation: "Confirm removing all entities"
+#LivingEntitiesView.removeAllEntities.lore: "**Click** to **remove** all entities"
+#LivingEntitiesView.removeAllEntities.name: "Manage Entities"
 MenuArgument.usage: "<Миры / Регионы>"
 Overview.navigationButton.lore.noPermissions: "У вас нет **прав**, для доступа к этой закладке"
 Overview.navigationButton.lore.select: "Нажмите, чтобы выбрать закладку"

@@ -1,3 +1,10 @@
+#
+# Fichier des langues officielles
+# Pour créer votre propre fichier de langue, copiez ce fichier et modifiez la copie
+#
+# Les modifications apportées à ce fichier seront réinitialisées !
+# Ne le modifiez pas !
+#
 AccountListView.argument.none: "Aucun"
 AccountListView.gui.lore.balances: "Soldes"
 AccountListView.gui.lore.deleteUser: "Confirmer la suppression de l'utilisateur %target%"
@@ -54,6 +61,9 @@ command.payBalance.successful.receive: "Vous avez reçu **%value%** de **%sender
 command.payBalance.successful.send: "Vous avez envoyé avec succès **%value%** à **%target%**"
 command.removeBalance: "Suppression réussie de **%value%** **%currency%** de **%target%**"
 command.setBalance: "Défini avec succès **%currency%** à **%value%** pour **%target%**"
+#WithdrawCommand.success: "You successfully have withdrawn **%value%**"
+#WithdrawCommand.notEnoughBalance: "You need at least **%value%** to withdraw this amount"
+#WithdrawCommand.notEnoughSpace: "You don´t have enough Space in your Inventory"
 CurrencyPicker.construct.lore: "Cliquez pour **sélectionner**"
 LoseMoneyOnDeathFeatureView.construct.title: "Fonctionnalités > Perdre de l'argent à la mort"
 LoseMoneyOnDeathFeatureView.disabled: "Cette fonctionnalité est actuellement **désactivée**"
@@ -157,15 +167,15 @@ TradeFeatureView.tradeCommandButton.lore.click.enabled: "Cliquez pour **désacti
 TradeFeatureView.tradeCommandButton.lore.description: "Permettre aux joueurs de démarrer un échange avec"
 TradeFeatureView.tradeCommandButton.lore.usage: "Joueur"
 TradeFeatureView.tradeCommandButton.name: "Commande d'Échange"
-TradeSystem.createRequest: "Refuser"
-TradeSystem.createRequest.accept: "Accepter"
+TradeSystem.createRequest: "%c%Refuser"
+TradeSystem.createRequest.accept: "%a%Accepter"
 TradeSystem.createRequest.clickToAccept: "**Cliquez** pour accepter l'offre"
 TradeSystem.createRequest.clickToDecline: "**Cliquez** pour refuser l'offre"
 TradeSystem.createRequest.pendingWith: "Vous avez déjà une demande en attente avec **%receiver%**"
 TradeSystem.createRequest.title.main: "Demande envoyée"
 TradeSystem.createRequest.title.sub: "Demande d'échange envoyé à **%receiver%**"
 TradeSystem.createRequest.wait: "Vous devez attendre au moins une minute avant d'envoyer une nouvelle demande"
-TradeSystem.createRequest.withYou: "**%sender%** veut échanger avec vous!"
+TradeSystem.createRequest.withYou: "**%a%%sender%** %7%veut échanger avec vous!"
 TradeSystem.createRequest.yourself: "Vous ne pouvez pas échanger avec **vous-même**"
 TradeSystem.declineRequest.receiver: "Vous avez refusé la demande d'échange de **%sender%**"
 TradeSystem.declineRequest.sender: "Malheureusement, **%receiver%** a **refusé** votre demande"

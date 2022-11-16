@@ -1,0 +1,19 @@
+#
+# Fichier des langues officielles
+# Pour créer votre propre fichier de langue, copiez ce fichier et modifiez la copie
+#
+# Les modifications apportées à ce fichier seront réinitialisées !
+# Ne le modifiez pas !
+#
+Overview.scoreboardButton.lore.click: "Clique pour voir tous les **Scoreboards**"
+Overview.scoreboardButton.lore.createdSoFar: "%board% créé aujourd'hui"
+Overview.scoreboardButton.lore.scoreboard: "Scoreboard"
+Overview.scoreboardButton.lore.scoreboards: "Scoreboards"
+Overview.scoreboardButton.name: "Scoreboards"
+Overview.settingsButton.lore.click: "Clique pour regarder les **paramètres**"
+Overview.settingsButton.name: "Paramètre"
+Overview.usersButton.lore.click: "Clique pour voir tous les **utilisateurs**"
+Overview.usersButton.lore.registered: "%player% enregistré jusqu’aujourd'hui"
+Overview.usersButton.lore.registered.player: "Joueur"
+Overview.usersButton.lore.registered.players: "Joueurs"
+Overview.usersButton.name: "Utilisateur"

@@ -1,3 +1,10 @@
+#
+# Fichier des langues officielles
+# Pour créer votre propre fichier de langue, copiez ce fichier et modifiez la copie
+#
+# Les modifications apportées à ce fichier seront réinitialisées !
+# Ne le modifiez pas !
+#
 AddFlagListView.button.click: "**Cliquez** pour ajouter ce drapeau"
 AddFlagListView.flagValue.allowed: "Par défaut, ce drapeau est **autorisé**"
 AddFlagListView.flagValue.disallowed: "Par défaut, ce drapeau est **interdit**"
@@ -86,6 +93,9 @@ LivingEntitiesView.click: "**Cliquez** pour **supprimer** cette entité"
 LivingEntitiesView.gui.title: "Entités"
 LivingEntitiesView.health: "Santé"
 LivingEntitiesView.pressQ: "**Appuyez sur Q** pour vous téléporter"
+LivingEntitiesView.removeAllEntities.confirmation: "Confirmé pour supprimé toutes les entités"
+LivingEntitiesView.removeAllEntities.lore: "**Clique** pour **supprimé** toutes les entités"
+LivingEntitiesView.removeAllEntities.name: "Gérer les entités"
 MenuArgument.usage: "<Mondes / Régions>"
 Overview.navigationButton.lore.noPermissions: "Vous n'avez pas la **permission** pour accéder à cet onglet"
 Overview.navigationButton.lore.select: "Cliquez pour sélectionner cet onglet"
@@ -176,7 +186,7 @@ RegionView.iconButton.name: "Icône"
 RegionView.teleportButton.click: "Cliquez pour vous téléporter dans cette région"
 RegionView.teleportButton.coordinates: "Coordonnés"
 RegionView.teleportButton.name: "Téléportation"
-#RegionVisualiser.actionBar.message: "Vous vous trouvez actuellement dans **%regions%**"
+RegionVisualiser.actionBar.message: "Vous vous trouvez actuellement dans **%regions%**"
 SelectionTypeSelector.cubeTypeButton.click: "Cliquez pour **sélectionner**"
 SelectionTypeSelector.cubeTypeButton.name: "Sélection en forme de cube"
 SelectionTypeSelector.expandVertTypeButton.click: "Cliquez pour **sélectionner**"
@@ -256,4 +266,4 @@ WorldView.weatherButton.pressQ.lock: "fermer"
 WorldView.weatherButton.pressQ.unlock: "déverrouiller"
 WorldView.weatherButton.thundering: "Le tonnerre s'arrêtera dans **%remainingTime%**"
 WorldWaterFlowFlag.desc: "Si désactivé, l'eau cessera de couler dans cette région"
-WorldWaterFlowFlag.name: "Water Flow"
+WorldWaterFlowFlag.name: "Mouvement de l'eau"

@@ -1,3 +1,11 @@
+#
+# Official Language File
+# To make your own language file, copy this file and edit the copy
+#
+# Changes made to this file will be reset!
+# Do not edit it!
+#
+
 AccountListView.argument.none: "Nessuno"
 AccountListView.gui.lore.balances: "Bilanci"
 AccountListView.gui.lore.deleteUser: "Conferma la rimozione del player %target%"
@@ -53,7 +61,10 @@ command.payBalance.playerOffline: "Questo lettore non è online"
 command.payBalance.successful.receive: "Hai ricevuto **%value%** da **%sender%**"
 command.payBalance.successful.send: "Hai inviato con successo **%value%** a **%target%**"
 command.removeBalance: "Rimosso con successo **%value%** di **%currency%** da **%target%**"
-command.setBalance: "Imposta con successo **%currency%** a **%value%** per **%target%**"
+command.setBalance: "Impostato con successo **%currency%** a **%value%** per **%target%**"
+#WithdrawCommand.success: "You successfully have withdrawn **%value%**"
+#WithdrawCommand.notEnoughBalance: "You need at least **%value%** to withdraw this amount"
+#WithdrawCommand.notEnoughSpace: "You don´t have enough Space in your Inventory"
 CurrencyPicker.construct.lore: "Clicca per **selezionare**"
 LoseMoneyOnDeathFeatureView.construct.title: "Caratteristiche> Perdere denaro in caso di morte"
 LoseMoneyOnDeathFeatureView.disabled: "Questa funzione è attualmente **disabilitata**"
@@ -157,15 +168,15 @@ TradeFeatureView.tradeCommandButton.lore.click.enabled: "Clicca per **disattivar
 TradeFeatureView.tradeCommandButton.lore.description: "Abilita i giocatori a fare uno scambio"
 TradeFeatureView.tradeCommandButton.lore.usage: "Giocatore"
 TradeFeatureView.tradeCommandButton.name: "Comando di scambio"
-TradeSystem.createRequest: "Rifiuta"
-TradeSystem.createRequest.accept: "Accetta"
+TradeSystem.createRequest: "%c%Rifiuta"
+TradeSystem.createRequest.accept: "%a%Accetta"
 TradeSystem.createRequest.clickToAccept: "**Clicca** per accettare l'offerta"
 TradeSystem.createRequest.clickToDecline: "**Clicca** per rifiutare l'offerta"
 TradeSystem.createRequest.pendingWith: "Hai già uno scambio in attesa con **%receiver%**"
 TradeSystem.createRequest.title.main: "Richiesta inviata"
 TradeSystem.createRequest.title.sub: "Hai mandato a **%receiver%** una richiesta di scambio"
 TradeSystem.createRequest.wait: "Devi aspettare almeno un minuto prima di poter mandare un'altra richiesta"
-TradeSystem.createRequest.withYou: "**%sender%** vuole scambiare con te!"
+TradeSystem.createRequest.withYou: "**%a%%sender%** %7%vuole scambiare con te!"
 TradeSystem.createRequest.yourself: "Non puoi scambiare con **te stesso**"
 TradeSystem.declineRequest.receiver: "Hai rifiutato la richiesta di scambio di **%sender%**"
 TradeSystem.declineRequest.sender: "Sfortunatamente **%receiver%** ha **rifiutato** la tua richiesta"

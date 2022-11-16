@@ -1,3 +1,11 @@
+#
+# Official Language File
+# To make your own language file, copy this file and edit the copy
+#
+# Changes made to this file will be reset!
+# Do not edit it!
+#
+
 #AccountListView.argument.none: "None"
 #AccountListView.gui.lore.balances: "Balances"
 #AccountListView.gui.lore.deleteUser: "Confirm deletion of User %target%"
@@ -54,6 +62,9 @@
 #command.payBalance.successful.send: "You have successfully sent **%value%** to **%target%**"
 #command.removeBalance: "Successfully removed **%value%** of **%currency%** from **%target%**"
 #command.setBalance: "Successfully set **%currency%** to **%value%** for **%target%**"
+#WithdrawCommand.success: "You successfully have withdrawn **%value%**"
+#WithdrawCommand.notEnoughBalance: "You need at least **%value%** to withdraw this amount"
+#WithdrawCommand.notEnoughSpace: "You don´t have enough Space in your Inventory"
 #CurrencyPicker.construct.lore: "Click to **select**"
 #LoseMoneyOnDeathFeatureView.construct.title: "Features > Lose Money on Death"
 #LoseMoneyOnDeathFeatureView.disabled: "This feature is currently **disabled**"
@@ -157,15 +168,15 @@
 #TradeFeatureView.tradeCommandButton.lore.description: "Allow players to start a trade with"
 #TradeFeatureView.tradeCommandButton.lore.usage: "Player"
 #TradeFeatureView.tradeCommandButton.name: "Trade Command"
-#TradeSystem.createRequest: "Decline"
-#TradeSystem.createRequest.accept: "Accept"
+#TradeSystem.createRequest: "%c%Decline"
+#TradeSystem.createRequest.accept: "%a%Accept"
 #TradeSystem.createRequest.clickToAccept: "**Click** to accept offer"
 #TradeSystem.createRequest.clickToDecline: "**Click** to decline offer"
 #TradeSystem.createRequest.pendingWith: "You already have a pending request with **%receiver%**"
 #TradeSystem.createRequest.title.main: "Request Sent"
 #TradeSystem.createRequest.title.sub: "Sent **%receiver%** a request to trade"
 #TradeSystem.createRequest.wait: "You need to wait at least one minute before sending a new request"
-#TradeSystem.createRequest.withYou: "**%sender%** wants to trade with you!"
+#TradeSystem.createRequest.withYou: "**%a%%sender%** %7%wants to trade with you!"
 #TradeSystem.createRequest.yourself: "You cannot trade with **yourself**"
 #TradeSystem.declineRequest.receiver: "You have declined the trade request of **%sender%**"
 #TradeSystem.declineRequest.sender: "Unfortunately **%receiver%** has **declined** your request"

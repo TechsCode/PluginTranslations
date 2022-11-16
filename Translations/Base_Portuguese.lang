@@ -1,3 +1,35 @@
+#
+# Official Language File
+# To make your own language file, copy this file and edit the copy
+#
+# Changes made to this file will be reset!
+# Do not edit it!
+#
+
+#customisationPane.updater.title: "In-game updater"
+#customisationPane.updater.action: "**Click** to %action% in-game updater"
+#customisationPane.updater.desc1: "Suggests to update the plugin if the plugin is outdated"
+#customisationPane.updater.desc2: "and it will automatically install it after confirming"
+#Status: "Status"
+#dateTimePickerView.typeIn.name: "Type in date"
+#dateTimePickerView.typeIn.lore: "Use a custom date"
+#dateTimePickerView.typeIn.userInput.mainTitle: "Custom Date"
+#dateTimePickerView.typeIn.userInput.subTitle: "Enter a date"
+#dateTimePickerView.typeIn.userInput.format: "Format: **dd-MM-yyy HH:mm:ss**"
+#dateTimePickerView.typeIn.userInput.format.error: "There was an error parsing the date"
+#dateTimePickerView.incrementAction: "**Click** to add **1**"
+#dateTimePickerView.decrementAction: "**Click** to remove **1**"
+#dateTimePickerView.incrementByAction: "**Shift + Click** to add **%number%**"
+#dateTimePickerView.decrementByAction: "**Shift + Click** to remove **%number%**"
+#timePickerView.typeIn.lore: "Use a custom duration"
+#timePickerView.typeIn.name: "Type in duration"
+#timePickerView.typeIn.userInput.format: "Format: **5m** (5 Minutes), **5h** (5 Hours), **5d** (5 Days)"
+#timePickerView.typeIn.userInput.mainTitle: "Custom Duration"
+#timePickerView.typeIn.userInput.subTitle: "Enter a duration"
+#timePickerView.decrementAction: "**Click** to remove **1**"
+#timePickerView.decrementByAction: "**Shift + Click** to remove **%number%**"
+#timePickerView.incrementAction: "**Click** to add **1**"
+#timePickerView.incrementByAction: "**Shift + Click** to add **%number%**"
 backButton.action: "Clique para voltar"
 backButton.title: "Voltar"
 command.noConsole: "Este comando não pode ser executado pela consola"
