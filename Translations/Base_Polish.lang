@@ -7,6 +7,11 @@
 
 #Translated by crosby & Mich3l3k
 
+#customisationPane.updater.title: "In-game updater"
+#customisationPane.updater.action: "**Click** to %action% in-game updater"
+#customisationPane.updater.desc1: "Suggests to update the plugin if the plugin is outdated"
+#customisationPane.updater.desc2: "and it will automatically install it after confirming"
+#Status: "Status"
 #dateTimePickerView.typeIn.name: "Type in date"
 #dateTimePickerView.typeIn.lore: "Use a custom date"
 #dateTimePickerView.typeIn.userInput.mainTitle: "Custom Date"

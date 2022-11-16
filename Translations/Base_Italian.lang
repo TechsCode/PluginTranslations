@@ -8,6 +8,11 @@
 # Traduzione fatta da Fedee#9989 & Wag ツ#0001
 #
 
+#customisationPane.updater.title: "In-game updater"
+#customisationPane.updater.action: "**Click** to %action% in-game updater"
+#customisationPane.updater.desc1: "Suggests to update the plugin if the plugin is outdated"
+#customisationPane.updater.desc2: "and it will automatically install it after confirming"
+#Status: "Status"
 backButton.action: "Clicca per tornare indietro"
 backButton.title: "Indietro"
 command.noConsole: "Questo comando non può essere eseguito dalla console"
