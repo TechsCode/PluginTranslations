@@ -5,6 +5,13 @@
 # 对此文件所做的更改都将会被重置！
 # 不要编辑它！
 #
+#generalSettingsPane.additionalFees.lore.teleportToShop.enabled: "**Shift + Right Click** to %action% teleport to shop feature"
+#generalSettingsPane.shopAppearanceDistance.title: "Shop Appearance Distance"
+#generalSettingsPane.shopAppearanceDistance.lore.desc: "Change the distance of visible shop opening"
+#generalSettingsPane.shopAppearanceDistance.lore.leftClick: "**Left Click** to set **Max View Distance**"
+#generalSettingsPane.shopAppearanceDistance.lore.currentDistance: "Current View Distance: **%distance%**"
+#generalSettingsPane.shopAppearanceDistance.userInput.title.main: "Set max View Distance"
+#generalSettingsPane.shopAppearanceDistance.userInput.title.sub: "Requires a number and supports decimals"
 actionBarSettingsView.create.custom.title.main: "创建商店 Actionbar 提示"
 actionBarSettingsView.create.custom.title.sub: "请在聊天栏内您想要的 actionbar 内容"
 actionBarSettingsView.create.lore.format: "格式:"

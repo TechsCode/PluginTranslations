@@ -5,6 +5,13 @@
 # Les modifications apportées à ce fichier seront réinitialisées !
 # Ne le modifiez pas !
 #
+#generalSettingsPane.additionalFees.lore.teleportToShop.enabled: "**Shift + Right Click** to %action% teleport to shop feature"
+#generalSettingsPane.shopAppearanceDistance.title: "Shop Appearance Distance"
+#generalSettingsPane.shopAppearanceDistance.lore.desc: "Change the distance of visible shop opening"
+#generalSettingsPane.shopAppearanceDistance.lore.leftClick: "**Left Click** to set **Max View Distance**"
+#generalSettingsPane.shopAppearanceDistance.lore.currentDistance: "Current View Distance: **%distance%**"
+#generalSettingsPane.shopAppearanceDistance.userInput.title.main: "Set max View Distance"
+#generalSettingsPane.shopAppearanceDistance.userInput.title.sub: "Requires a number and supports decimals"
 #generalSettingsPane.additionalFees.input.title.main.creationCost: "Shop Creation Cost"
 #generalSettingsPane.additionalFees.input.title.main.teleportToShop: "Teleport To Shop Cost"
 #generalSettingsPane.additionalFees.input.title.sub: "Type in a value as price"
