@@ -6,6 +6,12 @@
 # Do not edit it!
 #
 
+#miscPane.negativePermissionOverride.title: "Negative Permission Override"
+#miscPane.negativePermissionOverride.action.enable: "Click to **enable** negative permission override"
+#miscPane.negativePermissionOverride.action.disable: "Click to **disable** negative permission override"
+#miscPane.negativePermissionOverride.lore.state: "State: **%status%**"
+#miscPane.negativePermissionOverride.lore.desc1: "If enabled, negative permission will"
+#miscPane.negativePermissionOverride.lore.desc2: "override operator rights"
 #command.playerAddGroup.notTimeAllowed: "You can't grant Group **%group%** to users for a duration of **%duration%**"
 #command.playerAddGroup.word.permanent: "Permanent"
 #formatDialog.placeholders.entry: "**>** %placeholder% **-** %description%"
