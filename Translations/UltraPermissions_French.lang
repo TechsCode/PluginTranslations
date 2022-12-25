@@ -5,6 +5,10 @@
 # Les modifications apportées à ce fichier seront réinitialisées !
 # Ne le modifiez pas !
 #
+
+#command.registerUser.failed.alreadyExisting: "The UUID **%uuid%** is already registered"
+#command.registerUser.failed.invalidUUID: "Invalid UUID"
+#command.registerUser.success: "Successfully registered the user **%playerName%** (**%uuid%**)"
 #miscPane.negativePermissionOverride.title: "Negative Permission Override"
 #miscPane.negativePermissionOverride.action.enable: "Click to **enable** negative permission override"
 #miscPane.negativePermissionOverride.action.disable: "Click to **disable** negative permission override"
