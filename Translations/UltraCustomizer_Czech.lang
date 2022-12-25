@@ -254,7 +254,7 @@
 #ItemEditor.loreButton.userInput.previous: "Previous"
 #ItemEditor.loreButton.userInput.title.main: "Edit Lore Line"
 #ItemEditor.loreButton.userInput.title.sub: "Type in a line"
-#ItemEditor.materialButton.lore.click: "Click to change Material"
+#ItemEditor.materialButton.lore.click: "**Left Click** to change Material"
 #ItemEditor.materialButton.lore.currentMaterial: "Current Material"
 #ItemEditor.materialButton.materialPicker.title: "GUI-Item > Material"
 #ItemEditor.materialButton.name: "Change Material"

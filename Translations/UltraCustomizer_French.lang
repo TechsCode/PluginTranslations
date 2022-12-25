@@ -332,7 +332,7 @@ ItemEditor.loreButton.userInput.cursor.title.main: "Ajouter une ligne dans la de
 ItemEditor.loreButton.userInput.previous: "Précédent"
 ItemEditor.loreButton.userInput.title.main: "Modifier la ligne de description"
 ItemEditor.loreButton.userInput.title.sub: "Entrez la ligne"
-ItemEditor.materialButton.lore.click: "Clique pour modifier l'item"
+ItemEditor.materialButton.lore.click: "**Left Click** to change Material"
 ItemEditor.materialButton.lore.currentMaterial: "Item Actuel"
 ItemEditor.materialButton.materialPicker.title: "GUI-Item > Items"
 ItemEditor.materialButton.name: "Changer l'item"
