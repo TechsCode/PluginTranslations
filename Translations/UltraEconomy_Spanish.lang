@@ -6,6 +6,20 @@
 # ¡No edites esto!
 #
 
+#BankAccountMovementsView.gui.lore.effectedBalance: "Effected Balance: %balance%"
+#ExpValueSelectorView.typeInButton.name: "Type in Value"
+#ExpValueSelectorView.typeInButton.lore: "Click to type in an exact vaulue"
+#ExpValueSelectorView.typeInButton.userInput.title.sub: "Type in to set value"
+#ExpValueSelectorView.typeInButton.userInput.actionBar: "Ex. **25** for **25 Levels**"
+#ExpValueSelectorView.confirmButton.redstoneBlock.name: "No selected value"
+#ExpValueSelectorView.confirmButton.emeraldBlock: "Confirm"
+#ExpValueSelectorView.addRemoveButton.name.add: "Add"
+#ExpValueSelectorView.addRemoveButton.name.remove: "Remove"
+#ExpValueSelectorView.addRemoveButton.name.level: "level"
+#ExpValueSelectorView.addRemoveButton.lore: "Click to %action% more"
+#ExpValueSelectorView.addRemoveButton.lore.add: "add"
+#ExpValueSelectorView.addRemoveButton.lore.remove: "remove"
+#ExpValueSelectorView.addRemoveMaxButton.name.lore: "Click to %action% everything"
 #command.bank.own.notFound: "Could not find your bank account"
 #command.bank.others.notFound: "Could not find **%account%'s** bank account"
 #command.bank.account.notFound: "Could not find account of **%account%**"
