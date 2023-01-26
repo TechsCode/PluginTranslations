@@ -6,6 +6,16 @@
 # Do not edit it!
 #
 
+# groupView.changeIcon.action.rightClick: "**Right Click** to **change** Damage Value"
+# groupView.changeIcon.action.shiftRightClick: "**Shift + Right Click** to **change** Custom Model Data"
+# groupView.changeIcon.lore.damageValue: "Damage Value: **%damageValue%**"
+# groupView.changeIcon.lore.customModelId: "Custom Model ID: **%customModelId%**"
+# groupView.changeIcon.input.customModelId.title.main: "Custom Model ID"
+# groupView.changeIcon.input.customModelId.title.sub: "Type in Custom Model ID"
+# groupView.changeIcon.input.damageValue.title.main: "Durability"
+# groupView.changeIcon.input.damageValue.title.sub: "Type in Durability value"
+# groupView.changeIcon.input.example: "Example: **0** or **215**"
+# groupView.changeIcon.input.notAValidNumber: "Not a valid number"
 #command.registerUser.failed.alreadyExisting: "The UUID **%uuid%** is already registered"
 #command.registerUser.failed.invalidUUID: "Invalid UUID"
 #command.registerUser.success: "Successfully registered the user **%playerName%** (**%uuid%**)"
@@ -315,7 +325,7 @@ groupListView.storageSettingsAction: "**Pressione Q** para ver as Configuraçõe
 groupListView.titleAllGroups: "Grupos > A mostrar %count% Grupos"
 groupRenameDialog.subtitle: "Escreva um novo nome para **%group%**"
 groupRenameDialog.title: "Renomear Grupo"
-groupView.changeIcon.action: "**Clique** para mudar"
+groupView.changeIcon.action: "**Left Click** to **change** Icon"
 groupView.changeIcon.title: "Mudar ícone"
 groupView.delete.action: "**Clique** para **eliminar** este Grupo"
 groupView.delete.desc: "Esta ação é **permanente**"
