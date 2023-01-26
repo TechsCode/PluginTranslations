@@ -5,6 +5,8 @@
 # Le modifiche apportate a questo file verranno ripristinate! 
 # Non modificarlo! 
 #
+# transactionsView.entry.soldItem: "Sold **%time%** ago"
+# transactionsView.entry.soldMoneyReceived: "Money Received: **%money%**"
 generalSettingsPane.additionalFees.lore.teleportToShop.enabled: "**Shift + Tasto destro** per %action% teletrasportarti alla funzione dello shop"
 generalSettingsPane.shopAppearanceDistance.title: "Distanza di visualizzazione dello shop"
 generalSettingsPane.shopAppearanceDistance.lore.desc: "Change the distance of visible shop opening"
