@@ -1,10 +1,10 @@
-#
-# Official Language File
-# To make your own language file, copy this file and edit the copy
-#
-# Changes made to this file will be reset!
-# Do not edit it!
-#
+# #
+# # Official Language File
+# # To make your own language file, copy this file and edit the copy
+# #
+# # Changes made to this file will be reset!
+# # Do not edit it!
+# #
 
 # CommunityVaultInteractionListView.button.lore.interactedAt: "Interacted At: **%time%**"
 # CommunityVaultInteractionListView.button.lore.interactedPlayer: "Interacted Player: **%user%**"
@@ -125,7 +125,7 @@
 # FeatureListView.gui.title: "Overview > Features"
 # FeatureListView.vaultExtendsInventory.lore.description1: "This feature offers you the ability to let"
 # FeatureListView.vaultExtendsInventory.lore.description2: "the preferred vault of users automatically"
-# FeatureListView.vaultExtendsInventory.lore.description3: "extand their inventory on item pickup"
+# FeatureListView.vaultExtendsInventory.lore.description3: "extend their inventory on item pickup"
 # FeatureListView.vaultExtendsInventory.lore.description4: "if there is no further space in it"
 # FeatureListView.vaultExtendsInventory.name: "Vault Extends Inventory"
 # FeatureListView.vaultMarketplaceButton.lore.description1: "This feature offers users the ability to list"
@@ -150,6 +150,20 @@
 # GeneralSettingsPane.changeNameFeesButton.lore.description2: "paid when renaming an vault"
 # GeneralSettingsPane.changeNameFeesButton.name: "Changing Name Fees"
 # GeneralSettingsPane.description.usedCurrency: "(The vault type currency will be used)"
+# GeneralSettingsPane.lore.none: "None"
+# GeneralSettingsPane.firstVaultUnpaidButton.name: "First Vault Unpaid"
+# GeneralSettingsPane.firstVaultUnpaidButton.lore.leftClick: "**Left Click** to select **Vault Type**"
+# GeneralSettingsPane.firstVaultUnpaidButton.lore.rightClick: "**Right Click** to customize the name of the gifted Vault"
+# GeneralSettingsPane.firstVaultUnpaidButton.lore.pressQ: "**Press Q** to toggle"
+# GeneralSettingsPane.firstVaultUnpaidButton.lore.desc1: "Specify the Vault Type that will be"
+# GeneralSettingsPane.firstVaultUnpaidButton.lore.desc2: "given once to new Users for free"
+# GeneralSettingsPane.firstVaultUnpaidButton.lore.desc3: "(Recurring creation Cost is also free)"
+# GeneralSettingsPane.firstVaultUnpaidButton.lore.currentVaultType: "Current Vault Type: %vaultType%"
+# GeneralSettingsPane.firstVaultUnpaidButton.lore.currentCustomName: "Current Custom Name: %customName%"
+# GeneralSettingsPane.firstVaultUnpaidButton.selector.title: "Select gifted VaultType"
+# GeneralSettingsPane.firstVaultUnpaidButton.customName.title.main: "Custom Gifted Vault Name"
+# GeneralSettingsPane.firstVaultUnpaidButton.customName.title.sub: "Type in a custom name"
+# GeneralSettingsPane.firstVaultUnpaidButton.customName.title.actionBar: "Type in **none** to reset the custom name"
 # GeneralSettingsPane.fees.example: "Example: **215** or **15000**"
 # GeneralSettingsPane.fees.title.sub: "Type in a new fee"
 # GeneralSettingsPane.iconChangeFeesButton.lore.description1: "Define which fee needs to be paid"
@@ -376,6 +390,15 @@
 # UserSelectorView.onlineFilter.disableAction: "Click to **show** Offline Users"
 # UserSelectorView.onlineFilter.enableAction: "Click to **hide** Offline Users"
 # UserSelectorView.onlineFilter.title: "Visibility"
+# UserSettingsView.model.title: "Overview > Own Settings"
+# UserSettingsView.button.currentStatus: "Current Status: %status%"
+# UserSettingsView.button.click.toggle: "**Click** to toggle"
+# UserSettingsView.itemDepositButton.name: "Item Deposit Message"
+# UserSettingsView.itemDepositButton.lore.desc1: "If enabled InsaneVaults will send"
+# UserSettingsView.itemDepositButton.lore.desc2: "you on every Item Deposit a message"
+# UserSettingsView.itemWithdrawButton.name: "Item Withdraw Message"
+# UserSettingsView.itemWithdrawButton.lore.desc1: "If enabled InsaneVaults will send"
+# UserSettingsView.itemWithdrawButton.lore.desc2: "you on every Item Withdraw a message"
 # UserSharedVaultsListView.gui.title: "%user% > Shared Vaults"
 # UserSharedVaultsListView.sharedVaultButton.action.deleteWithRefund: "Successfully deleted vault **%vaultName%** (Refunded fees: **%refundedFees%**)"
 # UserSharedVaultsListView.sharedVaultButton.action.deleteWithoutRefund: "Successfully deleted vault **%vaultName%** without refunding fees"
@@ -449,6 +472,8 @@
 # UserView.sharedVaultsButton.lore.description2: "were shared with this user"
 # UserView.sharedVaultsButton.lore.sharedVaultsAmount: "Shared Vaults: **%amount%**"
 # UserView.sharedVaultsButton.name: "Shared Vaults"
+# UserOwnVaultsListView.ownVaultButton.lore.giftedVault: "Gifted Vault"
+# UserSharedVaultsListView.ownVaultButton.lore.giftedVault: "Gifted Vault"
 # VaultExtendInventoryItemListView.action.title: "Listed Items > Material"
 # VaultExtendInventoryItemListView.button.action.customModel.title.main: "Custom Model Id"
 # VaultExtendInventoryItemListView.button.action.customModel.title.sub: "Change the custom model id of this item"
@@ -501,7 +526,7 @@
 # VaultListView.ownVaultButton.lore.pressQ: "**Press Q** to **delete**"
 # VaultListView.ownVaultButton.lore.rightClick: "**Right Click** to **switch** lock state"
 # VaultQuickAccessCommand.action.title: "%user% > Vaults > %vaultName%"
-# VaultQuickAccessCommand.noPreferredVault: "You haven't chased a preferred vault yet"
+# VaultQuickAccessCommand.noPreferredVault: "You haven't chosen a preferred vault yet"
 # VaultSettingsView.interactionLogButton.lore.click: "**Click** to view"
 # VaultSettingsView.interactionLogButton.lore.description1: "View the log of which user deposited"
 # VaultSettingsView.interactionLogButton.lore.description2: "and withdrew which items"
@@ -543,7 +568,7 @@
 # VaultSettingsView.transferOwnershipButton.lore.currentHolder: "Current holder: **%holderName%**"
 # VaultSettingsView.transferOwnershipButton.lore.description1: "Permanently transfer the ownership of"
 # VaultSettingsView.transferOwnershipButton.lore.description2: "this vault to the user you select"
-# VaultSettingsView.transferOwnershipButton.lore.description3: "(You will loose all access to this vault)"
+# VaultSettingsView.transferOwnershipButton.lore.description3: "(You will lose all access to this vault)"
 # VaultSettingsView.transferOwnershipButton.name: "Transfer Ownership"
 # VaultSettingsView.transferOwnershipButton.transferToYourselfFailed: "You can't transfer your own vault to yourself"
 # VaultSettingsView.vaultCurrency: "Vault Currency"
@@ -783,5 +808,9 @@
 # VaultsView.sharedVaultsButton.lore.headline.sharedVaultsAmount: "Shared Vaults: **%amount%**"
 # VaultsView.sharedVaultsButton.lore.headline.users: "Shared Vaults"
 # VaultsView.sharedVaultsButton.name: "Shared Vaults"
+# VaultsView.userSettingsButton.name: "Own Settings"
+# VaultsView.userSettingsButton.lore.click: "**Click** to manage"
+# VaultsView.userSettingsButton.lore.desc1: "Manage your own Settings like toggle"
+# VaultsView.userSettingsButton.lore.desc2: "Item Deposit & Withdraw messages"
 # argument.user: "<User>"
 # argument.vaultType: "<VaultType>"

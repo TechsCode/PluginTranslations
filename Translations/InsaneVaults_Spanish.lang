@@ -1,10 +1,10 @@
-#
-# Official Language File
-# To make your own language file, copy this file and edit the copy
-#
-# Changes made to this file will be reset!
-# Do not edit it!
-#
+# #
+# # Official Language File
+# # To make your own language file, copy this file and edit the copy
+# #
+# # Changes made to this file will be reset!
+# # Do not edit it!
+# #
 
 # CommunityVaultInteractionListView.button.lore.interactedAt: "Interacted At: **%time%**"
 # CommunityVaultInteractionListView.button.lore.interactedPlayer: "Interacted Player: **%user%**"
@@ -125,7 +125,7 @@
 # FeatureListView.gui.title: "Overview > Features"
 # FeatureListView.vaultExtendsInventory.lore.description1: "This feature offers you the ability to let"
 # FeatureListView.vaultExtendsInventory.lore.description2: "the preferred vault of users automatically"
-# FeatureListView.vaultExtendsInventory.lore.description3: "extand their inventory on item pickup"
+# FeatureListView.vaultExtendsInventory.lore.description3: "extend their inventory on item pickup"
 # FeatureListView.vaultExtendsInventory.lore.description4: "if there is no further space in it"
 # FeatureListView.vaultExtendsInventory.name: "Vault Extends Inventory"
 # FeatureListView.vaultMarketplaceButton.lore.description1: "This feature offers users the ability to list"
@@ -501,7 +501,7 @@
 # VaultListView.ownVaultButton.lore.pressQ: "**Press Q** to **delete**"
 # VaultListView.ownVaultButton.lore.rightClick: "**Right Click** to **switch** lock state"
 # VaultQuickAccessCommand.action.title: "%user% > Vaults > %vaultName%"
-# VaultQuickAccessCommand.noPreferredVault: "You haven't chased a preferred vault yet"
+# VaultQuickAccessCommand.noPreferredVault: "You haven't chosen a preferred vault yet"
 # VaultSettingsView.interactionLogButton.lore.click: "**Click** to view"
 # VaultSettingsView.interactionLogButton.lore.description1: "View the log of which user deposited"
 # VaultSettingsView.interactionLogButton.lore.description2: "and withdrew which items"
@@ -543,7 +543,7 @@
 # VaultSettingsView.transferOwnershipButton.lore.currentHolder: "Current holder: **%holderName%**"
 # VaultSettingsView.transferOwnershipButton.lore.description1: "Permanently transfer the ownership of"
 # VaultSettingsView.transferOwnershipButton.lore.description2: "this vault to the user you select"
-# VaultSettingsView.transferOwnershipButton.lore.description3: "(You will loose all access to this vault)"
+# VaultSettingsView.transferOwnershipButton.lore.description3: "(You will lose all access to this vault)"
 # VaultSettingsView.transferOwnershipButton.name: "Transfer Ownership"
 # VaultSettingsView.transferOwnershipButton.transferToYourselfFailed: "You can't transfer your own vault to yourself"
 # VaultSettingsView.vaultCurrency: "Vault Currency"
