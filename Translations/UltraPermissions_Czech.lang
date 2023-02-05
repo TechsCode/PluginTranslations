@@ -89,7 +89,7 @@ command.groupAddPermission: "Přidáno oprávnění **%permission%** skupině **
 command.groupAlreadyHasPermission: "Skupina **%group%** již má oprávnění **%permission%**"
 command.groupRemovePermission.successful: "Odstraněno oprávnění **%permission%** z **%target%**"
 command.groupRemovePermission.successfulMultiple: "Odstraněno **count** kopií **%permission%** z **%target%**"
-command.groupRemovePermission.unsuccessful: "Nebylo nalezeno oprávnění **%permission%** pro **target**"
+command.groupRemovePermission.unsuccessful: "Nebylo nalezeno oprávnění **%permission%** pro **%target%**"
 command.groupSetPrefix.clear: "Vymazán prefix skupiny **%group%**"
 command.groupSetPrefix.set: "Nastav prefix skupiny **%group%** na **%prefix%**"
 command.groupSetSuffix.clear: "Vymazán skuffix skupiny **%group%**"

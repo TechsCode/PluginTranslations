@@ -68,7 +68,7 @@ command.groupAddPermission: "Permission **%permission%** ajoutée pour **%group%
 command.groupAlreadyHasPermission: "Le groupe **%group%** a déjà la permission **%permission%**"
 command.groupRemovePermission.successful: "Permission **%permission%** supprimée de **%target%**"
 command.groupRemovePermission.successfulMultiple: "Supprimé **count** copies de **%permission%** de **%target%**"
-command.groupRemovePermission.unsuccessful: "Je n'ai pas trouvé la permission **%permission%** pour **target**"
+command.groupRemovePermission.unsuccessful: "Je n'ai pas trouvé la permission **%permission%** pour **%target%**"
 command.groupSetPrefix.clear: "Suppression du préfixe de **%group%**"
 command.groupSetPrefix.set: "Définissez le préfixe de **%group%** sur **%prefix%**"
 command.groupSetSuffix.clear: "Suppression du suffixe **%group%**"

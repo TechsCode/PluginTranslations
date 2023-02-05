@@ -69,7 +69,7 @@ command.groupAddPermission.bungee: "Dodano uprawnienie **%permission%** do **%gr
 command.groupAlreadyHasPermission: "Grupa **%group%** już ma uprawnienie **%permission%**"
 command.groupRemovePermission.successful: "Usunięto uprawnienie **%permission%** z **%target%**"
 command.groupRemovePermission.successfulMultiple: "Usunięto **count** kopii **%permission%** w **%target%**"
-command.groupRemovePermission.unsuccessful: "Nie znaleziono uprawnienia **%permission%** w **target**"
+command.groupRemovePermission.unsuccessful: "Nie znaleziono uprawnienia **%permission%** w **%target%**"
 command.groupSetPrefix.clear: "Wyczyszczono prefiks dla **%group%**"
 command.groupSetPrefix.set: "Ustawiono prefiks dla **%group%** na **%prefix%**"
 command.groupSetSuffix.clear: "Wyczyszczono suffiks dla **%group%**"

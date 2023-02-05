@@ -40,7 +40,7 @@
 #command.deleteUser.unsuccessful: "The user **%user%** needs to be offline"
 #command.groupRemovePermission.successful: "Removed permission **%permission%** from **%target%**"
 #command.groupRemovePermission.successfulMultiple: "Removed **count** copies of **%permission%** from **%target%**"
-#command.groupRemovePermission.unsuccessful: "Did not find permission **%permission%** for **target**"
+#command.groupRemovePermission.unsuccessful: "Did not find permission **%permission%** for **%target%**"
 #command.groupSetPrefix.clear: "Cleared the prefix of **%group%**"
 #command.groupSetPrefix.set: "Set the prefix of **%group%** to **%prefix%**"
 #command.groupSetSuffix.clear: "Cleared the suffix of **%group%**"
