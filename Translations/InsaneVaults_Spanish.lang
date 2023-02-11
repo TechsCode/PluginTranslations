@@ -740,7 +740,7 @@
 # VaultTypeReorderView.entry.swapAction: "**Left Click** to swap with **%vaultType%**"
 # VaultTypeReorderView.gui.title: "Vault Types > Reorder"
 # VaultTypeSelectorView.construct.amountSharedAccess: "Amount Shared Access: **%amount%**"
-# VaultTypeSelectorView.construct.lore: "**Click** to **select**"
+# VaultTypeSelectorView.construct.lore: "**Left Click** to **select**"
 # VaultTypeSelectorView.construct.lore.blacklistedItems: "Blacklisted Items:"
 # VaultTypeSelectorView.construct.lore.blacklistedItemsAmount: "Blacklisted Items: **%amount%**"
 # VaultTypeSelectorView.construct.lore.blacklistedItemsNone: "None"

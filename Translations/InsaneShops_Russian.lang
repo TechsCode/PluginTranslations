@@ -82,7 +82,7 @@
 #moneySelectionView.confirm.noFundsExplanation: "You don't have enough funds to purchase it"
 #moneySelectionView.confirm.priceLimitExplanation: "The shop price is limited to %price%"
 #moneySelectionView.item: "Item"
-#moneySelectionView.pricePer: "Price Per"
+#moneySelectionView.pricePer: "Price per"
 #sellToShopView.confirm.sellAll.action: "Shift + Click to **sell all**"
 #shopCreationView.continue.blockedItem.explanation: "This Item is blocked for shop creation"
 #shopCreationView.continue.blockedItem.title: "Blocked Item"

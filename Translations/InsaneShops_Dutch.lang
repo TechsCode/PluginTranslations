@@ -127,7 +127,7 @@
 #moneySelectionView.increase.action: "**Left Click** to add **%value%**"
 #moneySelectionView.increase.title: "Increase"
 #moneySelectionView.item: "Item"
-#moneySelectionView.pricePer: "Price Per"
+#moneySelectionView.pricePer: "Price per"
 #moneySelectionView.switchUnit.action: "**Press Q** to switch unit"
 #moneySelectionView.typeIn.action: "**Click** to type in a price"
 #moneySelectionView.typeIn.input.subtitle: "Type in a price in chat"
