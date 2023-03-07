@@ -265,7 +265,7 @@
 # ItemStorageView.gui.itemStack.clickAction: "Click to **withdraw** item"
 # ItemStorageView.gui.itemStack.needAtLeast: "You need at least %moneyString% to withdraw this item!"
 # ItemStorageView.gui.itemStack.notEnoughSpace: "You don't have enough space in your inventory to withdraw this item!"
-# ItemStorageView.gui.itemStack.withdrawSuccessful: "Successfully withdrawn **%amount%** x %item% from your bank account's item storage %optionalMoneyString%"
+# ItemStorageView.gui.itemStack.withdrawSuccessful: "Successfully withdrawn **%amount%** x **%item%** from your bank account's item storage %optionalMoneyString%"
 # ItemStorageView.gui.itemStack.withdrawSuccessful.optionalMoneyString: "and paid %moneyString%"
 # itemStorageView.gui.itemStackDeposit.upgradeRequired: "Upgrade your bank account to deposit more items into your bank account's item storage!"
 # itemStorageView.gui.itemStackDeposit.needAtLeast: "You need at least %moneyString% to deposit this item!"
