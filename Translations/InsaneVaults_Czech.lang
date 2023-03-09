@@ -1,3 +1,11 @@
+#
+# Official Language File
+# To make your own language file, copy this file and edit the copy
+#
+# Changes made to this file will be reset!
+# Do not edit it!
+#
+
 VaultTypeEditView.preDefinedItemsButton.name", "Předdefinované položky"
 VaultTypeEditView.preDefinedItemsButton.lore.click", "**Klikni** pro **úpravu** předdefinovaných položek"
 VaultTypeEditView.preDefinedItemsButton.lore.description1", "Definuj automatické položky"
