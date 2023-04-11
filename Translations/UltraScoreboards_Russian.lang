@@ -5,16 +5,15 @@
 # Changes made to this file will be reset!
 # Do not edit it!
 #
-
-Overview.scoreboardButton.name: "Скорборды"
-Overview.scoreboardButton.lore.click: "Нажмите чтобы посмотреть все **скорборды**"
-Overview.scoreboardButton.lore.createdSoFar: "%board% всего создано"
-Overview.scoreboardButton.lore.scoreboard: "Скорборд"
-Overview.scoreboardButton.lore.scoreboards: "Скорборды"
+Overview.scoreboardButton.name: "Скореборды"
+Overview.scoreboardButton.lore.click: "Нажмите для просмотра **скоребордов**"
+Overview.scoreboardButton.lore.createdSoFar: "%board% создано"
+Overview.scoreboardButton.lore.scoreboard: "Скореборд"
+Overview.scoreboardButton.lore.scoreboards: "Скореборды"
 Overview.settingsButton.name: "Настройки"
-Overview.settingsButton.lore.click: "Нажмите чтобы открыть **настройки**"
+Overview.settingsButton.lore.click: "Нажмите для открытия **настроек**"
 Overview.usersButton.name: "Пользователи"
-Overview.usersButton.lore.click: "Нажмите чтобы посмотреть всех **пользователей**"
-Overview.usersButton.lore.registered: "%player% всего зарегистрировано"
+Overview.usersButton.lore.click: "Нажмите для просмотра **пользователей**"
+Overview.usersButton.lore.registered: "%player% зарегистрировано"
 Overview.usersButton.lore.registered.player: "Игрок"
 Overview.usersButton.lore.registered.players: "Игроки"

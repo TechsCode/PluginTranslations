@@ -1,0 +1,539 @@
+#
+# Official Language File
+# To make your own language file, copy this file and edit the copy
+#
+# Changes made to this file will be reset!
+# Do not edit it!
+#
+
+# Сервер Motd
+Overview.motdsButton.name: "Сервер Motd"
+Overview.motdsButton.lore: "**Нажмите** для управления"
+Overview.motdsButton.requirProtoLib: "Требуется ProtocolLib для работы"
+MotdListView.gui.title: "Сервер Motds > Список"
+
+# Сервер Motd > Создать
+MotdListView.add.title: "Создать Motd"
+MotdListView.add.action: "Нажмите для создания"
+createMotdDialog.title: "Создание Motd"
+createMotdDialog.subTitle: "Введите имя"
+createMotdDialog.nameTaken: "Имя уже используется"
+createMotdDialog.noSpaces: "Имя **не должно** иметь пробелов"
+createMotdDialog.noColors: "Имя **не должно** иметь кодов цвета"
+
+# Сервер Motd > Motd
+MotdListView.gui.lore.leftClick: "**Нажмите** для настройки"
+MotdListView.gui.lore.q: "**Q** для **удаления**"
+MotdListView.gui.lore.select: "**SHIFT+ЛКМ** для **включения**"
+MotdListView.gui.lore.deselect: "**SHIFT+ЛКМ** для **выключения**"
+MotdListView.gui.lore.duplicate: "**СКМ** для **копирования**"
+MotdListView.gui.lore.firstLine: "Первая строка"
+MotdListView.gui.lore.secondLine: "Вторая строка"
+MotdListView.gui.lore.delete: "Удаление > %name%"
+
+# Сервер Motd > Motd > Удалить
+MotdView.deleteButton.name: "Удалить Motd"
+MotdView.deleteButton.lore: "**Нажмите** для удаления"
+MotdView.deleteButton.confirm: "Удаление > %name%"
+
+# Сервер Motd > Motd > Переименовать
+MotdView.renameButton.name: "Переименовать Motd"
+MotdView.renameButton.lore: "**Нажмите** для изменения"
+renameMotdDialog.title: "Переименование Motd"
+renameMotdDialog.subTitle: "Введите новое имя для **%name%**"
+renameMotdDialog.nameTaken: "Имя уже используется"
+renameMotdDialog.nameSame: "Имя совпадает с текущим"
+renameMotdDialog.noSpaces: "Имя **не должно** иметь пробелов"
+renameMotdDialog.noColors: "Имя **не должно** иметь кодов цвета"
+
+# Сервер Motd > Motd > Переключить
+MotdView.activateButton.name.activate: "Включить Motd"
+MotdView.activateButton.lore.activate: "**Нажмите** для **включения**"
+MotdView.activateButton.name.deactivate: "Выключить Motd"
+MotdView.activateButton.lore.deactivate: "**Нажмите** для **выключения**"
+
+# Сервер Motd > Motd > Текст описания
+MotdView.changeLineButton.name: "Текст описания"
+MotdView.changeLineButton.lore.first: "**ЛКМ** для изменения первой строки"
+MotdView.changeLineButton.lore.second: "**ПКМ** для изменения второй строки"
+MotdView.changeLineButton.lore.firstLine: "Первая строка"
+MotdView.changeLineButton.lore.secondLine: "Вторая строка"
+setFistLineMotdDialog.title: "Первая строка"
+setFistLineMotdDialog.subTitle: "Введите новый текст для **%name%**"
+setSecondLineMotdDialog.title: "Вторая строка"
+setSecondLineMotdDialog.subTitle: "Введите новый текст для **%name%**"
+
+# Сервер Motd > Motd > Текст при наведении
+MotdView.changeHoverMessage.name: "Текст при наведении"
+MotdView.changeHoverMessage.lore.addLine: "**Нажмите** для добавления строки"
+MotdView.changeHoverMessage.lore.enableCursor: "**Q** для включения **курсора**"
+MotdView.changeHoverMessage.lore.editSelected: "**ЛКМ** для изменения **выбранной** строки"
+MotdView.changeHoverMessage.lore.deleteSelected: "**ПКМ** для удаления **выбранной** строки"
+MotdView.changeHoverMessage.lore.nextLine: "**Q** для выбора **следующей строки**"
+MotdView.changeHoverMessage.lore.lines: "Строки:"
+MotdView.changeHoverMessage.lore.selected: "выбрано"
+hoverMessageAddLineDialog.title: "Добавление строки"
+hoverMessageAddLineDialog.subTitle: "Введите текст"
+hoverMessageEditLineDialog.title: "Изменение строки"
+hoverMessageEditLineDialog.subTitle: "Введите новый текст"
+hoverMessageEditLineDialog.previous: "Текущий"
+
+# Сервер Motd > Motd > Текст кол-ва игроков
+MotdView.setMaxPlayersButton.name: "Текст кол-ва игроков"
+MotdView.setMaxPlayersButton.lore.click: "**Нажмите** для установки"
+MotdView.setMaxPlayersButton.lore.value: "Значение:"
+MotdView.setMaxPlayersButton.lore.preview: "Предпросмотр:"
+setPlayerCountDialog.title: "Текст кол-ва игроков"
+setPlayerCountDialog.subTitle: "Введите числовое значение"
+
+# Сервер Motd > Motd > Значок сервера
+MotdView.iconButton.name: "Значок сервера"
+MotdView.iconButton.lore: "**Нажмите** для изменения"
+MotdView.iconButton.lore.current: "Текущий значок:"
+MotdSetServerIconDialog.gui.title: "Motds > %name% > Значок"
+
+# Сервер Motd > Motd > Значок сервера > Создать
+MotdSetServerIconDialog.fromUrlButton.name: "По ссылке"
+MotdSetServerIconDialog.fromUrlButton.lore: "**Нажмите** для установки"
+MotdServerIconFromUrlDialog.title: "Введите ссылку"
+MotdServerIconFromUrlDialog.subTitle: "Type in a url ending with png, jpg or jpeg"
+MotdServerIconFromUrlDialog.invalidUrl: "This is not a valid url"
+MotdServerIconFromUrlDialog.missingExtension: "This url does not end with png, jpg or jpeg"
+
+# Сервер Motd > Motd > Значок сервера > Значок
+MotdSetServerIconDialog.gui.lore.select: "**Нажмите** для выбора"
+MotdSetServerIconDialog.gui.lore.deselect: "**Нажмите** для отмены"
+MotdSetServerIconDialog.gui.lore.q: "**Q** для **удаления**"
+MotdSetServerIconDialog.gui.lore.middle: "**СКМ** для **переименования**"
+MotdSetServerIconDialog.gui.lore.incompatible: "This image is not usable as a server icon. Max size is 64x64."
+MotdServerIconRenameDialog.title: "Введите новое имя"
+MotdServerIconRenameDialog.subTitle: "Type in a new name for the icon"
+
+
+
+
+
+# Кнопка чатового Motd
+Overview.welcomeButton.name: "Чат Motd"
+Overview.welcomeButton.lore: "**Нажмите** для управления"
+
+WelcomeMessage.durationView.permanent: "Бессрочно"
+WelcomeMessageListView.add.action: "Click to welcome message"
+WelcomeMessageListView.add.title: "Create Welcome Message"
+WelcomeMessageListView.changeHoverMessage.lore.addLine: "**Left Click** to **add** a new line"
+WelcomeMessageListView.changeHoverMessage.lore.addLineBelow: "**Shift Left Click** to **add** a new line below selected"
+WelcomeMessageListView.changeHoverMessage.lore.editLine: "**Middle Click** to **edit** the selected line"
+WelcomeMessageListView.changeHoverMessage.lore.removeLine: "**Press Q** to **delete** the selected line"
+WelcomeMessageListView.changeHoverMessage.lore.scrollDown: "**Right Click** to scroll down"
+WelcomeMessageListView.changeHoverMessage.lore.scrollUp: "**Shift Right Click** to scroll up"
+WelcomeMessageListView.create.nameTaken: "This WelcomeMessage Name is already in use"
+WelcomeMessageListView.create.noColors: "The WelcomeMessage Name **should not** contain Color Codes"
+WelcomeMessageListView.create.noSpaces: "The WelcomeMessage Name **should not** contain spaces"
+WelcomeMessageListView.gui.addLinesDialog.subTitle: "Type in the text"
+WelcomeMessageListView.gui.addLinesDialog.title: "Add Line"
+WelcomeMessageListView.gui.changeTypeButton.lore.click: "**Click** to switch"
+WelcomeMessageListView.gui.changeTypeButton.lore.type.actionbar: "Action Bar"
+WelcomeMessageListView.gui.changeTypeButton.lore.type.bossbar: "Boss Bar"
+WelcomeMessageListView.gui.changeTypeButton.lore.type.chat: "Chat"
+WelcomeMessageListView.gui.changeTypeButton.lore.type.title: "Title"
+WelcomeMessageListView.gui.changeTypeButton.title: "Set The Type"
+WelcomeMessageListView.gui.createButton.lore: "**Click** to create the welcome message"
+WelcomeMessageListView.gui.createButton.lore.missing.lines: "Please enter or add lines"
+WelcomeMessageListView.gui.createButton.lore.missing.name: "Please enter a welcome message name"
+WelcomeMessageListView.gui.createButton.lore.missing.titleLines: "Please enter the title lines"
+WelcomeMessageListView.gui.createButton.title: "Create Welcome Message"
+WelcomeMessageListView.gui.editLinesDialog.subTitle: "Type in the new text"
+WelcomeMessageListView.gui.editLinesDialog.title: "Edit Line"
+WelcomeMessageListView.gui.lore.delete: "Delete %name%"
+WelcomeMessageListView.gui.lore.deselect: "**Shift Click** to **deactivate**"
+WelcomeMessageListView.gui.lore.duplicate: "**Middle Click** to **duplicate**"
+WelcomeMessageListView.gui.lore.leftClick: "**Left Click** to view Motd"
+WelcomeMessageListView.gui.lore.q: "**Press Q** to **delete**"
+WelcomeMessageListView.gui.lore.select: "**Shift Click** to **activate**"
+WelcomeMessageListView.gui.setLinesButton.lore.lines: "Строки:"
+WelcomeMessageListView.gui.setLinesButton.title: "Set Lines"
+WelcomeMessageListView.gui.setLinesDialog.subTitle: "Type in the text"
+WelcomeMessageListView.gui.setLinesDialog.title: "Set Line"
+WelcomeMessageListView.gui.setNameButton.lore: "**Click** to set name"
+WelcomeMessageListView.gui.setNameButton.lore.currentName: "Name: **%name%**"
+WelcomeMessageListView.gui.setNameButton.title: "Set The Name"
+WelcomeMessageListView.gui.setNameDialog.subTitle: "Enter the name of the welcome message"
+WelcomeMessageListView.gui.setNameDialog.title: "Enter a name"
+WelcomeMessageListView.gui.setSubTitleDialog.subTitle: "Type in the text"
+WelcomeMessageListView.gui.setSubTitleDialog.title: "Set Sub Title Text"
+WelcomeMessageListView.gui.setTextButton.lore: "**Click** to set the message text"
+WelcomeMessageListView.gui.setTextButton.lore.text: "Value:"
+WelcomeMessageListView.gui.setTextButton.title: "Set Text"
+WelcomeMessageListView.gui.setTitleButton.lore: "**Click** to set the title and sub title text"
+WelcomeMessageListView.gui.setTitleButton.lore.text: "Title:"
+WelcomeMessageListView.gui.setTitleButton.lore.text.sub: "Sub Title:"
+WelcomeMessageListView.gui.setTitleButton.title: "Set Title"
+WelcomeMessageListView.gui.setTitleDialog.subTitle: "Type in the text"
+WelcomeMessageListView.gui.setTitleDialog.title: "Set Title Text"
+WelcomeMessageListView.gui.title: "Welcome Motds > List"
+WelcomeMessageView.activateButton.lore.activate: "**Click** to **activate** Welcome Message"
+WelcomeMessageView.activateButton.lore.deactivate: "**Click** to **deactivate** Welcome Message"
+WelcomeMessageView.activateButton.name.activate: "Activate Welcome Message"
+WelcomeMessageView.activateButton.name.deactivate: "Deactivate Welcome Message"
+WelcomeMessageView.barProgressButton.lore.decrease.one: "**Right Click** to **decrease** by 1"
+WelcomeMessageView.barProgressButton.lore.decrease.ten: "**Shift Right Click** to **decrease** by 10"
+WelcomeMessageView.barProgressButton.lore.increase.one: "**Left Click** to **increase** by 1"
+WelcomeMessageView.barProgressButton.lore.increase.ten: "**Shift Left Click** to **increase** by 10"
+WelcomeMessageView.barProgressButton.lore.value: "Value:"
+WelcomeMessageView.barProgressButton.name: "Change Progress"
+WelcomeMessageView.barStylesButton.lore.click: "**Click** to change the style"
+WelcomeMessageView.barStylesButton.lore.styles: "Styles:"
+WelcomeMessageView.barStylesButton.name: "Change Style"
+WelcomeMessageView.barStylesButton.style.segment10: "10 segments"
+WelcomeMessageView.barStylesButton.style.segment12: "12 segments"
+WelcomeMessageView.barStylesButton.style.segment20: "20 segments"
+WelcomeMessageView.barStylesButton.style.segment6: "6 segments"
+WelcomeMessageView.barStylesButton.style.solid: "Solid"
+WelcomeMessageView.changeHoverMessage.lore.addLine: "**Left Click** to **add** a new line"
+WelcomeMessageView.changeHoverMessage.lore.addLineBelow: "**Shift Left Click** to **add** a new line below selected"
+WelcomeMessageView.changeHoverMessage.lore.editLine: "**Middle Click** to **edit** the selected line"
+WelcomeMessageView.changeHoverMessage.lore.removeLine: "**Press Q** to **delete** the selected line"
+WelcomeMessageView.changeHoverMessage.lore.scrollDown: "**Right Click** to scroll down"
+WelcomeMessageView.changeHoverMessage.lore.scrollUp: "**Shift Right Click** to scroll up"
+WelcomeMessageView.colorButton.color.blue: "BLUE"
+WelcomeMessageView.colorButton.color.green: "GREEN"
+WelcomeMessageView.colorButton.color.pink: "PINK"
+WelcomeMessageView.colorButton.color.purple: "PURPLE"
+WelcomeMessageView.colorButton.color.red: "RED"
+WelcomeMessageView.colorButton.color.white: "WHITE"
+WelcomeMessageView.colorButton.color.yellow: "YELLOW"
+WelcomeMessageView.colorButton.lore.click: "**Click** to change the color"
+WelcomeMessageView.colorButton.lore.colors: "Colors:"
+WelcomeMessageView.colorButton.name: "Change Color"
+WelcomeMessageView.deleteButton.confirm: "Delete %name%"
+WelcomeMessageView.deleteButton.lore: "**Click** to delete Welcome Message"
+WelcomeMessageView.deleteButton.name: "Delete Welcome Message"
+WelcomeMessageView.durationButton.lore: "**Click** to set the duration"
+WelcomeMessageView.durationButton.lore.duration: "Продолжительность:"
+WelcomeMessageView.durationButton.name: "Set Duration"
+WelcomeMessageView.durationView.noTime: "permanent"
+WelcomeMessageView.durationView.title: "Set Duration"
+WelcomeMessageView.gui.addLinesDialog.subTitle: "Type in the text"
+WelcomeMessageView.gui.addLinesDialog.title: "Add Line"
+WelcomeMessageView.gui.editLinesDialog.subTitle: "Type in the new text"
+WelcomeMessageView.gui.editLinesDialog.title: "Edit Line"
+WelcomeMessageView.gui.setLinesButton.lore.lines: "Lines:"
+WelcomeMessageView.gui.setLinesButton.title: "Set Lines"
+WelcomeMessageView.gui.setLinesDialog.subTitle: "Type in the text"
+WelcomeMessageView.gui.setLinesDialog.title: "Set Line"
+WelcomeMessageView.gui.setSubTitleDialog.subTitle: "Type in the text"
+WelcomeMessageView.gui.setSubTitleDialog.title: "Set Sub Title Text"
+WelcomeMessageView.gui.setTextButton.lore: "**Click** to set the message text"
+WelcomeMessageView.gui.setTextButton.lore.text: "Value:"
+WelcomeMessageView.gui.setTextButton.title: "Set Text"
+WelcomeMessageView.gui.setTitleButton.lore: "**Click** to set the title and sub title text"
+WelcomeMessageView.gui.setTitleButton.lore.text: "Title:"
+WelcomeMessageView.gui.setTitleButton.lore.text.sub: "Sub Title:"
+WelcomeMessageView.gui.setTitleButton.title: "Set Title"
+WelcomeMessageView.gui.setTitleDialog.subTitle: "Type in the text"
+WelcomeMessageView.gui.setTitleDialog.title: "Set Title Text"
+WelcomeMessageView.previewButton.lore: "**Click** to preview Welcome MOTD"
+WelcomeMessageView.previewButton.name: "Preview MOTD"
+WelcomeMessageView.renameButton.lore: "**Click** to rename Motd"
+WelcomeMessageView.renameButton.name: "Rename Motd"
+
+renameWelcomeDialog.nameSame: "This Welcome Message Name is the same as the original one"
+renameWelcomeDialog.nameTaken: "This Welcome Message Name is already in use"
+renameWelcomeDialog.noColors: "The Welcome Message Name **should not** contain Color Codes"
+renameWelcomeDialog.noSpaces: "The Welcome Message Name **should not** contain spaces"
+renameWelcomeDialog.subTitle: "Type in a new name for **%name%**"
+renameWelcomeDialog.title: "Rename Welcome Message"
+
+
+
+
+
+# Обслуживание
+Overview.maintenanceButton.name: "Режим обслуживания"
+Overview.maintenanceButton.lire: "**Нажмите** для настройки"
+Overview.maintenanceButton.enable: "**Q** для **включения**"
+Overview.maintenanceButton.disable: "**Q** для **выключения**"
+MaintenanceView.title: "Обслуживание"
+
+# Обслуживание > Сервер Motd
+MaintenanceView.selectMotdButton.name: "Сервер Motd"
+MaintenanceView.selectMotdButton.lore: "**Нажмите** для выбора"
+MaintenanceView.selectMotdButton.lore.selected: "Выбрано:"
+MaintenanceMotdListSelectView.gui.title: "Обслуживание > Сервер Motds"
+MaintenanceMotdListSelectView.gui.lore.select: "**Нажмите** для **выбора**"
+MaintenanceMotdListSelectView.gui.lore.deselect: "**Нажмите** для **отмены**"
+
+# Обслуживание > Переключить
+MaintenanceView.activateButton.name.activate: "Включить обслуживание"
+MaintenanceView.activateButton.lore.activate: "**Нажмите** для **включения**"
+MaintenanceView.activateButton.name.deactivate: "Выключить обслуживание"
+MaintenanceView.activateButton.lore.deactivate: "**Нажмите** для **выключения**"
+
+# Обслуживание > Чат Motd
+MaintenanceView.selectWelcomeMotdButton.name: "Чат Motd"
+MaintenanceView.selectWelcomeMotdButton.lore: "**Нажмите** для выбора"
+MaintenanceView.selectWelcomeMotdButton.lore.selected: "Выбрано:"
+MaintenanceWelcomeMotdListSelectView.gui.title: "Обслуживание > Чат Motds"
+MaintenanceWelcomeMotdListSelectView.gui.lore.select: "**Нажмите** для **выбора**"
+MaintenanceWelcomeMotdListSelectView.gui.lore.deselect: "**Нажмите** для **отмены**"
+
+# Обслуживание > Длительность
+MaintenanceView.durationButton.name: "Длительность"
+MaintenanceView.durationButton.lore: "**Нажмите** для управления"
+MaintenanceView.durationButton.lore.start_date: "Дата начала:"
+MaintenanceView.durationButton.lore.end_date: "Дата окончания:"
+MaintenanceView.durationButton.noTime: "Бессрочно"
+MaintenanceDurationView.title: "Обслуживание > Длительность"
+
+# Обслуживание > Длительность > Дата начала
+MaintenanceDurationView.startTimeButton.name: "Дата начала"
+MaintenanceDurationView.startTimeButton.lore: "**Нажмите** для установки"
+MaintenanceDurationView.startTimeButton.lore.date: "Дата:"
+MaintenanceDurationView.startTimeButton.noTime: "Сейчас"
+MaintenanceDurationView.startTimeButton.title: "Дата начала"
+
+# Обслуживание > Длительность > Дата окончания
+MaintenanceDurationView.endTimeButton.name: "Дата окончания"
+MaintenanceDurationView.endTimeButton.lore: "**Нажмите** для установки"
+MaintenanceDurationView.endTimeButton.q: "**Q** для удаления"
+MaintenanceDurationView.endTimeButton.lore.date: "Дата:"
+MaintenanceDurationView.endTimeButton.lore.duration: "Длительность:"
+MaintenanceDurationView.endTimeButton.noTime: "Бессрочно"
+MaintenanceDurationView.endTimeButton.title: "Дата окончания"
+
+# Обслуживание > Белый список
+MaintenanceView.whitelistButton.name: "Белый список"
+MaintenanceView.whitelistButton.lore: "**Нажмите** для управления"
+MaintenanceView.whitelistButton.lore.message.q: "**Q** для установки сообщения"
+MaintenanceView.whitelistButton.lore.message.value: "Сообщение кика:"
+MaintenanceView.whitelistButton.lore.message.title: "Сообщение кика"
+MaintenanceView.whitelistButton.lore.message.subTitle: "Enter a new whitelist kick message"
+UsersWhitelistListView.gui.title: "Обслуживание > Белый список"
+UsersWhitelistListView.gui.lore.remove: "**Нажмите** для удаления"
+
+# Обслуживание > Белый список > Добавление
+UsersWhitelistListView.add.title: "Добавить игрока"
+UsersWhitelistListView.add.action: "Нажмите для добавления"
+UsersWhiteAddView.gui.title: "Обслуживание > Белый список"
+UsersWhiteAddView.gui.lore.add: "**Нажмите** для добавления"
+
+# Обслуживание > Право на подключение
+MaintenanceView.overwritePermButton.name: "Право на подключение"
+MaintenanceView.overwritePermButton.lore: "**Нажмите** для изменения"
+MaintenanceView.overwritePermButton.lore.value: "Значение:"
+MaintenanceModeOverwritePermDialog.title: "Set Permission"
+MaintenanceModeOverwritePermDialog.subTitle: "Type in a permission"
+MaintenanceModeOverwritePermDialog.noSpaces: "The permission **should not** contain spaces"
+
+
+
+
+
+# Таймеры
+Overview.timersButton.name: "Таймеры"
+Overview.timersButton.lore: "**Нажмите** для управления"
+TimerGroupListView.gui.title: "Таймеры > Список"
+
+# Таймеры > Создать
+TimerGroupListView.add.title: "Создать таймер"
+TimerGroupListView.add.action: "Нажмите для создания"
+
+# Таймеры > Создать > Имя
+TimerGroupCreationView.gui.setNameButton.title: "Имя"
+TimerGroupCreationView.gui.setNameButton.lore: "**Нажмите** для установки"
+TimerGroupCreationView.gui.setNameButton.lore.currentName: "Имя: **%name%**"
+TimerGroupCreationView.gui.setNameDialog.title: "Создание таймера"
+TimerGroupCreationView.gui.setNameDialog.subTitle: "Введите имя"
+TimerGroupCreationView.create.nameTaken: "Имя уже используется"
+TimerGroupCreationView.create.noSpaces: "Имя **не должно** иметь пробелов"
+TimerGroupCreationView.create.noColors: "Имя **не должно** иметь кодов цвета"
+
+# Таймеры > Создать > Тип
+TimerGroupCreationView.gui.changeTypeButton.title: "Тип"
+TimerGroupCreationView.gui.changeTypeButton.lore.click: "**Нажмите** для переключения"
+TimerGroupCreationView.gui.changeTypeButton.lore.type.chat: "Таймер"
+TimerGroupCreationView.gui.changeTypeButton.lore.type.title: "Интервал"
+
+# Таймеры > Создать > Время
+TimerGroupCreationView.gui.setTimeButton.title: "Время"
+TimerGroupCreationView.setTimeButton.lore.time: "**Нажмите** для установки"
+TimerGroupCreationView.setTimeButton.lore.value.time: "Дата и время:"
+TimerGroupCreationView.intervalButton.title: "Интервал"
+TimerGroupCreationView.setTimeButton.lore.interval: "**Нажмите** для установки"
+TimerGroupCreationView.setTimeButton.lore.value.interval: "Интервал:"
+TimerGroupCreationView.setTimeButton.lore.value.interval.text: "Повтор каждые %time%"
+TimerGroupCreationView.intervalButton.noTime: "Установите время"
+TimerGroupCreationView.timeButton.title: "Дата и время"
+TimerGroupCreationView.timeButton.noTime: "Сейчас"
+
+# Таймеры > Создать > Создать
+TimerGroupCreationView.gui.createButton.title: "Создать таймер"
+TimerGroupCreationView.gui.createButton.lore: "**Нажмите** для создания"
+TimerGroupCreationView.gui.createButton.lore.missing.name: "Установите имя"
+TimerGroupCreationView.gui.createButton.lore.missing.time: "Установите время"
+
+# Таймеры > Таймер
+TimerGroupListView.gui.lore.leftClick: "**Нажмите** для настройки"
+TimerGroupListView.gui.lore.select: "**SHIFT+ЛКМ** для **включения**"
+TimerGroupListView.gui.lore.deselect: "**SHIFT+ЛКМ** для **выключения**"
+TimerGroupListView.gui.lore.q: "**Q** для **удаления**"
+TimerGroupListView.gui.lore.delete: "Удаление > %name%"
+TimerGroupListView.gui.lore.cantActivate: "Can not activate timer group. Please add at least 1 element"
+
+# Таймеры > Таймер > Переименовать
+TimerGroupView.renameButton.name: "Переименовать таймер"
+TimerGroupView.renameButton.lore: "**Нажмите** для изменения"
+renameTimerGroupDialog.title: "Переименование таймера"
+renameTimerGroupDialog.subTitle: "Введите новое имя для **%name%**"
+renameTimerGroupDialog.nameTaken: "Имя уже используется"
+renameTimerGroupDialog.nameSame: "Имя совпадает с текущим"
+renameTimerGroupDialog.noSpaces: "Имя **не должно** иметь пробелов"
+renameTimerGroupDialog.noColors: "Имя **не должно** иметь кодов цвета"
+
+# Таймеры > Таймер > Переключить
+TimerGroupView.activateButton.name.activate: "Включить таймер"
+TimerGroupView.activateButton.lore.activate: "**Нажмите** для **включения**"
+TimerGroupView.activateButton.name.deactivate: "Выключить таймер"
+TimerGroupView.activateButton.lore.deactivate: "**Нажмите** для **выключения**"
+TimerGroupView.activateButton.lore.cantActivate: "Can not activate timer group. Please add at least 1 element"
+
+# Таймеры > Таймер > Удалить
+TimerGroupView.deleteButton.name: "Удалить таймер"
+TimerGroupView.deleteButton.lore: "**Нажмите** для удаления"
+TimerGroupView.deleteButton.confirm: "Удаление > %name%"
+
+# Таймеры > Таймер > Время
+TimerGroupView.gui.setTimeButton.title: "Время"
+TimerGroupView.setTimeButton.lore.time: "**Нажмите** для установки"
+TimerGroupView.setTimeButton.lore.value.time: "Дата и время:"
+TimerGroupView.intervalButton.title: "Интервал"
+TimerGroupView.setTimeButton.lore.interval: "**Нажмите** для установки"
+TimerGroupView.setTimeButton.lore.value.interval: "Интервал:"
+TimerGroupView.setTimeButton.lore.value.interval.text: "Повтор каждые %time%"
+TimerGroupView.intervalButton.noTime: "Установите время"
+TimerGroupView.timeButton.title: "Дата и время"
+TimerGroupView.timeButton.noTime: "Сейчас"
+
+# Таймеры > Таймер > Элементы
+TimerGroupView.elementSelectButton.name: "Элементы"
+TimerGroupView.elementSelectButton.lore: "**Нажмите** для управления"
+
+TimerElementCreationView.delayView.lore: "**Click** to set the delay"
+TimerElementCreationView.delayView.lore.duration: "Delay:"
+TimerElementCreationView.delayView.name: "Set Delay"
+TimerElementCreationView.delayView.noTime: "Please set delay"
+TimerElementCreationView.delayView.title: "Set Delay"
+TimerElementCreationView.gui.createButton.lore: "**Нажмите** для создания"
+TimerElementCreationView.gui.createButton.lore.missing.delay: "Please set a delay"
+TimerElementCreationView.gui.createButton.lore.missing.motd: "Please select a server motd or welcome motd"
+TimerElementCreationView.gui.createButton.title: "Создать"
+TimerElementCreationView.gui.title: "Элемент > Создание"
+TimerElementCreationView.selectServerMotdButton.lore: "**Click** to select a Server Motd"
+TimerElementCreationView.selectServerMotdButton.lore.selected: "Выбрано:"
+TimerElementCreationView.selectServerMotdButton.name: "Select Server Motd"
+TimerElementCreationView.selectwelcomeMotdButton.lore: "**Click** to select a Welcome Motd"
+TimerElementCreationView.selectwelcomeMotdButton.lore.selected: "Выбрано:"
+TimerElementCreationView.selectwelcomeMotdButton.name: "Select Welcome Motd"
+TimerElementListView.add.action: "Нажмите для создания"
+TimerElementListView.add.title: "Создать элемент"
+TimerElementListView.gui.lore.delay.value: "Delay:"
+TimerElementListView.gui.lore.delete: "Delete timer element"
+TimerElementListView.gui.lore.deselect: "**Middle Click** to **deactivate**"
+TimerElementListView.gui.lore.select: "**Middle Click** to **activate**"
+TimerElementListView.gui.lore.serverMotd.value: "Server Motd:"
+TimerElementListView.gui.lore.welcomeMotd.value: "Welcome Motd:"
+TimerElementListView.gui.timerElement: "Timer Element"
+TimerElementListView.gui.timerElement.click: "**Click** to manage"
+TimerElementListView.gui.timerElement.delete: "**Press Q** to **delete**"
+TimerElementListView.gui.timerElement.move.down: "**Shift Right Click** to move down"
+TimerElementListView.gui.timerElement.move.up: "**Shift Left Click** to move up"
+TimerElementListView.gui.title: "Таймеры > %name% > Элементы"
+TimerElementMotdListSelectView.gui.lore.deselect: "**Click** to **deselect**"
+TimerElementMotdListSelectView.gui.lore.select: "**Click** to **select**"
+TimerElementMotdListSelectView.gui.title: "Timer Element > Server Motd"
+TimerElementView.activateButton.lore.activate: "**Нажмите** для **включения**"
+TimerElementView.activateButton.lore.deactivate: "**Нажмите** для **выключения**"
+TimerElementView.activateButton.name.activate: "Activate Motd"
+TimerElementView.activateButton.name.deactivate: "Deactivate Motd"
+TimerElementView.delayView.lore: "**Click** to set the delay"
+TimerElementView.delayView.lore.duration: "Delay:"
+TimerElementView.delayView.name: "Set Delay"
+TimerElementView.delayView.noTime: "Please set delay"
+TimerElementView.delayView.title: "Set Delay"
+TimerElementView.deleteButton.confirm: "Delete Timer Element"
+TimerElementView.deleteButton.lore: "**Click** to delete Welcome Message"
+TimerElementView.deleteButton.name: "Delete Welcome Message"
+TimerElementView.selectServerMotdButton.lore: "**Click** to select a Server Motd"
+TimerElementView.selectServerMotdButton.lore.selected: "Selected:"
+TimerElementView.selectServerMotdButton.name: "Select Server Motd"
+TimerElementView.selectwelcomeMotdButton.lore: "**Click** to select a Welcome Motd"
+TimerElementView.selectwelcomeMotdButton.lore.selected: "Selected:"
+TimerElementView.selectwelcomeMotdButton.name: "Select Welcome Motd"
+TimerElementWelcomeMotdListSelectView.gui.lore.deselect: "**Click** to **deactivate**"
+TimerElementWelcomeMotdListSelectView.gui.lore.select: "**Click** to **activate**"
+TimerElementWelcomeMotdListSelectView.gui.title: "Timer Element > Welcome Motd"
+
+
+
+
+
+# События
+Overview.eventsButton.name: "События"
+Overview.eventsButton.lore: "**Нажмите** для управления"
+EventsListView.gui.title: "События > Список"
+
+# События > Добавить
+EventsListView.add.title: "Добавить событие"
+EventsListView.add.action: "Нажмите для добавления"
+EventsListAddView.gui.title: "События > Добавление"
+EventsListAddView.gui.lore.leftClick: "**Нажмите** для добавления"
+
+# События > Событие
+EventsListView.gui.lore.leftClick: "**Нажмите** для настройки"
+EventsListView.gui.lore.select: "**SHIFT+ЛКМ** для **включения**"
+EventsListView.gui.lore.deselect: "**SHIFT+ЛКМ** для **выключения**"
+EventsListView.gui.lore.q: "**Q** для **удаления**"
+EventsListView.gui.delete: "Удаление > %name%"
+
+# События > Событие > Переключить
+EventView.activateButton.name.activate: "Включить событие"
+EventView.activateButton.lore.activate: "**Нажмите** для **включения**"
+EventView.activateButton.name.deactivate: "Выключить событие"
+EventView.activateButton.lore.deactivate: "**Нажмите** для **выключения**"
+
+# События > Событие > Сервер Motd
+EventView.selectMotdButton.name: "Сервер Motd"
+EventView.selectMotdButton.lore: "**Нажмите** для выбора"
+EventView.selectMotdButton.lore.selected: "Выбрано:"
+EventMotdSelectView.gui.title: "События > %name% > Сервер Motd"
+EventMotdSelectView.gui.lore.select: "**SHIFT+ЛКМ** для **включения**"
+EventMotdSelectView.gui.lore.deselect: "**SHIFT+ЛКМ** для **выключения**"
+
+# События > Событие > Чат Motd
+EventView.selectWelcomeMotdButton.name: "Чат Motd"
+EventView.selectWelcomeMotdButton.lore: "**Нажмите** для выбора"
+EventView.selectWelcomeMotdButton.lore.selected: "Выбрано:"
+EventWelcomeMotdSelectView.gui.title: "События > %name% > Чат Motd"
+EventWelcomeMotdSelectView.gui.lore.select: "**SHIFT+ЛКМ** to **включения**"
+EventWelcomeMotdSelectView.gui.lore.deselect: "**SHIFT+ЛКМ** для **выключения**"
+
+# События > Событие > Удалить
+EventView.deleteButton.name: "Удалить событие"
+EventView.deleteButton.lore: "**Нажмите** для удаления"
+EventView.deleteButton.confirm: "Удаление > %name%"
+
+
+
+
+
+# Настройки
+Overview.settingsButton.name: "Настройки"
+Overview.settingsButton.lore: "**Нажмите** для открытия"
+
+# Настройки > Основные
+generalSettingsPane.title: "Основные"
+generalSettingsPane.general.title: "Первое подключение"
+generalSettingsPane.general.enable: "**Нажмите** для **включения**"
+generalSettingsPane.general.disable: "**Нажмите** для **выключения**"
+generalSettingsPane.general.lore.first: "When enabled the welcome MOTD "
+generalSettingsPane.general.lore.second: "will only be send on first join."
