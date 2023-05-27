@@ -1,0 +1,47 @@
+private static final Phrase CONFIRM_BLACKLISTED purchaseFromShopView.confirm.blacklisted: "You are blacklisted from this shop"
+private static final Phrase CONFIRM_BLACKLISTED sellToShopView.confirm.blacklisted: "You are blacklisted from this shop"
+private static final Phrase TITLE shopCustomerBlacklistListView.title: "Shop > Customer Blacklist"
+private static final Phrase CLICK_TO_REMOVE shopCustomerBlacklistListView.clickToRemove: "**Click** to remove User from Blacklist:,
+private static final Phrase ADD_USER_TO_BLACKLIST shopCustomerBlacklistListView.addUserToBlacklist: "Add User"
+private static final Phrase ADD_USER_TO_BLACKLIST_LORE shopCustomerBlacklistListView.addUserToBlacklist.lore: "**Click** to add new User to Blacklist:,
+private static final Phrase ADD_USER_TO_BLACKLIST_DESC1 shopCustomerBlacklistListView.addUserToBlacklist.desc1: "A blacklisted User cannot sell"
+private static final Phrase ADD_USER_TO_BLACKLIST_DESC2 shopCustomerBlacklistListView.addUserToBlacklist.desc2: "and buy from this shop"
+private static final Phrase ADD_USER_TO_BLACKLIST_USER_SELECTOR_TITLE shopCustomerBlacklistListView.addUserToBlacklist.userSelector.title: "Customer Blacklist > Select User"
+private static final Phrase CUSTOMER_BLACKLIST_BUTTON_NAME shopSettingsView.customerBlacklistButton.name: "Customer Blacklist"
+private static final Phrase CUSTOMER_BLACKLIST_BUTTON_LORE_CLICK shopSettingsView.customerBlacklistButton.lore.click: "**Click** to manage:,
+private static final Phrase CUSTOMER_BLACKLIST_BUTTON_LORE_DESC1 shopSettingsView.customerBlacklistButton.lore.desc1: "Blacklist customers from"
+private static final Phrase CUSTOMER_BLACKLIST_BUTTON_LORE_DESC2 shopSettingsView.customerBlacklistButton.lore.desc2: "selling and buying from"
+private static final Phrase CUSTOMER_BLACKLIST_BUTTON_LORE_DESC3 shopSettingsView.customerBlacklistButton.lore.desc3: "your shop"
+private static final Phrase BUTTON_LORE UserSelectorView.construct.lore: "**Click** to **select**:
+private static final Phrase FILTER_TITLE UserSelectorView.onlineFilter.title: "Visibility"
+private static final Phrase FILTER_ENABLE_ACTION UserSelectorView.onlineFilter.enableAction: "Click to **hide** Offline Users:
+private static final Phrase FILTER_DISABLE_ACTION UserSelectorView.onlineFilter.disableAction: "Click to **show** Offline Users:
+private static final Phrase DEFAULT_CREATE_NOTICE_PHRASE actionBarNoticesRegistry.default.create: "**%action%** to create a new Shop:
+private static final Phrase CREATE_SHOP_KEYBINDING_BUTTON_NAME miscPane.createShopKeybindingButton.name: "Shop Create Keybinding"
+private static final Phrase CREATE_SHOP_KEYBINDING_BUTTON_LORE miscPane.createShopKeybindingButton.lore: "**Click** to **switch** create shop keybinding:
+private static final Phrase CREATE_SHOP_KEYBINDING_BUTTON_DESC1 miscPane.createShopKeybindingButton.desc1: "This keybinding will be used to create shops"
+private static final Phrase NOTIFICATION_OUT_OF_STOCK_REACHED purchaseFromShopView.confirm.notification.outOfStock: "Your shop (**%itemQuantity%**x %itemName%) is now out of stock:
+private static final Phrase CONFIRM_BUYING_LIMIT_REACHED1 sellToShopView.confirm.buyingLimitReached1: "The Shop has reached its buying limit and will not"
+private static final Phrase CONFIRM_BUYING_LIMIT_REACHED2 sellToShopView.confirm.buyingLimitReached2: "be accepting any additional items for buying"
+private static final Phrase CONFIRM_BUYING_LIMIT_LEFT sellToShopView.confirm.buyingLimitLeft: "The shop has **%amount%** remaining offers:
+private static final Phrase NOTIFICATION_BUYING_LIMIT_REACHED sellToShopView.confirm.notification.buyingLimitReached: "Your shop (**%itemQuantity%**x %itemName%) has reached its buying limit:
+private static final Phrase ITEM_BUTTON_LORE_CLICK shopCreationView.itemButton.lore.click: "Click **here** to type the amount:
+private static final Phrase ITEM_BUTTON_LORE_AMOUNT shopCreationView.itemButton.lore.amount: "Amount: **%amount%**:
+private static final Phrase ITEM_BUTTON_ACTION_TITLE_MAIN shopCreationView.itemButton.action.title.main: "Type the amount you want to sell:
+private static final Phrase ITEM_BUTTON_ACTION_TITLE_SUB shopCreationView.itemButton.action.title.sub: "Max amount possible: **%amount%**:
+private static final Phrase ITEM_BUTTON_ACTION_FAIL_NUMBER_REQUIRED shopCreationView.itemButton.action.fail.numberRequired: "You need to type in a whole number"
+private static final Phrase ITEM_BUTTON_ACTION_FAIL_NUMBER_TOO_HIGH shopCreationView.itemButton.action.fail.numberTooHigh: "You can't sell more than **%amount%**:
+private static final Phrase BUYING_CHANGE_LIMIT_ACTION shopSettingsView.buying.changeLimitAction: "**Right Click** to **set** buy limit:
+private static final Phrase BUYING_CHANGE_LIMIT_ACTION_UNLIMITED shopSettingsView.buying.changeLimitAction.unlimited: "**Shift + Right Click** to **remove** buy limit:
+private static final Phrase BUYING_LIMIT_LORE shopSettingsView.buying.limitLore: "Buying Limit: %limit%"
+private static final Phrase BUYING_LIMIT_DESC shopSettingsView.buying.limitDesc: "Setting a buying limit will define how many times"
+private static final Phrase BUYING_LIMIT_DESC_2 shopSettingsView.buying.limitDesc.2: "your buying offer can be taken from players"
+private static final Phrase BUYING_LIMIT_DESC_3 shopSettingsView.buying.limitDesc.3: "before the shop will stop buying"
+private static final Phrase BUYING_LIMIT_DESC_4 shopSettingsView.buying.limitDesc.4: "items and you will be bankrupt"
+private static final Phrase BUYING_LIMIT_LORE_LEFT shopSettingsView.buying.limitLore.left: "left:
+private static final Phrase BUYING_LIMIT_ACTION_TITLE_MAIN shopSettingsView.buying.limitAction.title.main: "New Buying Limit:
+private static final Phrase BUYING_LIMIT_ACTION_TITLE_SUB shopSettingsView.buying.limitAction.title.sub: "Enter a new buying limit"
+private static final Phrase BUYING_LIMIT_ACTION_TITLE_ACTION_BAR shopSettingsView.buying.limitAction.title.actionBar: "Example: **150** to stop buying after your shop offer has been taken 150 times:
+private static final Phrase BUYING_LIMIT_ACTION_ENTER_VALID_NUMBER shopSettingsView.buying.limitAction.enterValidNumber: "Please enter a valid number"
+private static final Phrase NOTIFICATION_OUT_OF_STOCK_REACHED ShopEvents.notification.outOfStock: "Your shop (**%itemQuantity%**x %itemName%) is now out of stock:,
+private static final Phrase NOTIFICATION_BUYING_LIMIT_REACHED ShopEvents.notification.buyingLimitReached: "Your shop (**%itemQuantity%**x %itemName%) has reached its buying limit:
