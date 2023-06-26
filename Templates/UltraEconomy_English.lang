@@ -392,6 +392,16 @@ command.payBalance.successful.receive: "You got **%value%** from **%sender%**"
 command.payBalance.successful.send: "You have successfully sent **%value%** to **%target%**"
 command.removeBalance: "Successfully removed **%value%** of **%currency%** from **%target%**"
 command.setBalance: "Successfully set **%currency%** to **%value%** for **%target%**"
+#command.bank.balance.withdraw.success: "Successfully withdrew %balance% **from %bankAccount%**", Colors.GRAY, Colors.GRAY);
+#command.bank.balance.deposit.success: "Successfully deposited %amount% **to %bankAccount%**", Colors.GRAY, Colors.GRAY);
+#command.bank.balance.upgradeRequired: "Upgrade your bank account to deposit more than **%amount%** **%currencyName% into your bank account!**", Colors.GRAY, Colors.LightPink, Colors.GRAY);
+#command.bank.balance.payment.failed.payToggle: "**%playerName%** does not accept any payments", Colors.GRAY, Colors.YELLOW);
+#command.bank.balance.payment.success.receive: "You got **%value%** from Bank Account **%sender%**", Colors.GRAY, Colors.YELLOW, Colors.YELLOW);
+#command.bank.balance.payment.notEnoughBalance: "You need at least %balance% **in your bank account to execute this payment**", Colors.GRAY, Colors.GRAY);
+#command.bank.balance.payment.success: "Successfully transferred %balance% **to** **%account%**", Colors.GRAY, Colors.GRAY, Colors.AQUA);
+#command.bank.balance.notEnoughBalanceWithdraw: "The bank account need at least **%value%** to withdraw this amount", Colors.GRAY, Colors.AQUA);
+#command.bank.balance.notEnoughBalanceDeposit: "The account need at least **%value%** to deposit this amount", Colors.GRAY, Colors.AQUA);
+#command.bank.balance.noPermission: "You don't have **access** to that command", Colors.GRAY, Colors.RED);
 CurrencyPicker.construct.lore: "Click to **select**"
 CurrencyListView.reorder.title: "Change Order"
 CurrencyListView.reorder.action: "Click to modify the order"
