@@ -222,7 +222,7 @@ GeneralSettingsPane.puttingCostsOnGovernmentAccountButton.name: "Putting Costs o
 GeneralSettingsPane.puttingCostsOnGovernmentAccountButton.notInstalled.lore.description1: "**UltraEconomy** is **not** installed"
 GeneralSettingsPane.puttingCostsOnGovernmentAccountButton.notInstalled.lore.description2: "To this feature UltraEconomy is required"
 GeneralSettingsPane.refundFeesButton.lore.description1: "If enabled, vault type cost and fees for each"
-GeneralSettingsPane.refundFeesButton.lore.description2: "shared accesses will be refunded"
+GeneralSettingsPane.refundFeesButton.lore.description2: "shared accesses will be refunded (On Deletion)"
 GeneralSettingsPane.refundFeesButton.name: "Refund Fees"
 GeneralSettingsPane.sharedAccessCreationFees.lore.description1: "Define which fee needs to be paid when"
 GeneralSettingsPane.sharedAccessCreationFees.lore.description2: "creating new shared accesses"
