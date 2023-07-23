@@ -117,7 +117,7 @@
 # GeneralPane.PlayerBehavior.status: "Status"
 # GeneralPane.PlayerBehavior.title: "Player Behavior"
 # GeneralPane.ReportDelay.lore.click: "Click to **set**"
-# GeneralPane.ReportDelay.lore.currentDelay: "Current Delay: "
+# GeneralPane.ReportDelay.lore.currentDelay: "Current Delay:"
 # GeneralPane.ReportDelay.lore.currentDelay.none: "None"
 # GeneralPane.ReportDelay.lore.desc: "Players will have to wait between"
 # GeneralPane.ReportDelay.lore.desc2: "sending multiple reports"
