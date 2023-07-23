@@ -1,20 +1,20 @@
-#
+# 
 # Official Language File
 # To make your own language file: copy this file and edit the copy
-#
+# 
 # Changes made to this file will be reset!
 # Do not edit it!
-#
+# 
 
-Overview.scoreboardButton.name: "Tabulky"
 Overview.scoreboardButton.lore.click: "Klikni pro zobrazení všech **Tabulek**"
 Overview.scoreboardButton.lore.createdSoFar: "%board% bylo dosud vytvořeno"
 Overview.scoreboardButton.lore.scoreboard: "Tabulka"
 Overview.scoreboardButton.lore.scoreboards: "Tabulky"
-Overview.settingsButton.name: "Nastavení"
+Overview.scoreboardButton.name: "Tabulky"
 Overview.settingsButton.lore.click: "Klikni pro zobrazení **Nastavení**"
-Overview.usersButton.name: "Uživatelé"
+Overview.settingsButton.name: "Nastavení"
 Overview.usersButton.lore.click: "Klikni pro zobrazení **Uživatelů**"
 Overview.usersButton.lore.registered: "%player% bylo dosud registrováno"
 Overview.usersButton.lore.registered.player: "Hráč"
 Overview.usersButton.lore.registered.players: "Hráči"
+Overview.usersButton.name: "Uživatelé"

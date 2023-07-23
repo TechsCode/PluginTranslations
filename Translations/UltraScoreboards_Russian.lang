@@ -1,19 +1,20 @@
-#
+# 
 # Official Language File
 # To make your own language file: copy this file and edit the copy
-#
+# 
 # Changes made to this file will be reset!
 # Do not edit it!
-#
-Overview.scoreboardButton.name: "Скореборды"
+# 
+
 Overview.scoreboardButton.lore.click: "Нажмите для просмотра **скоребордов**"
 Overview.scoreboardButton.lore.createdSoFar: "%board% создано"
 Overview.scoreboardButton.lore.scoreboard: "Скореборд"
 Overview.scoreboardButton.lore.scoreboards: "Скореборды"
-Overview.settingsButton.name: "Настройки"
+Overview.scoreboardButton.name: "Скореборды"
 Overview.settingsButton.lore.click: "Нажмите для открытия **настроек**"
-Overview.usersButton.name: "Пользователи"
+Overview.settingsButton.name: "Настройки"
 Overview.usersButton.lore.click: "Нажмите для просмотра **пользователей**"
 Overview.usersButton.lore.registered: "%player% зарегистрировано"
 Overview.usersButton.lore.registered.player: "Игрок"
 Overview.usersButton.lore.registered.players: "Игроки"
+Overview.usersButton.name: "Пользователи"

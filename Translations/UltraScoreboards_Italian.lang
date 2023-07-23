@@ -1,22 +1,22 @@
-#
+# 
 # Official Language File
 # To make your own language file: copy this file and edit the copy
-#
+# 
 # Changes made to this file will be reset!
 # Do not edit it!
+# 
+# Translated by Wag ツ#0001
 #
 
-# Translated by Wag ツ#0001
-
-Overview.scoreboardButton.name: "Scoreboard"
 Overview.scoreboardButton.lore.click: "Clicca per vedere tute le **Scoreboard**"
 Overview.scoreboardButton.lore.createdSoFar: "%board% creata"
 Overview.scoreboardButton.lore.scoreboard: "Scoreboard"
 Overview.scoreboardButton.lore.scoreboards: "Scoreboard"
-Overview.settingsButton.name: "Impostazioni"
+Overview.scoreboardButton.name: "Scoreboard"
 Overview.settingsButton.lore.click: "Clicca per vedere le **impostazioni**"
-Overview.usersButton.name: "Utenti"
+Overview.settingsButton.name: "Impostazioni"
 Overview.usersButton.lore.click: "Clicca per vedere tutti gli **utenti**"
 Overview.usersButton.lore.registered: "%player% registrati"
 Overview.usersButton.lore.registered.player: "Giocatore"
 Overview.usersButton.lore.registered.players: "Giocatori"
+Overview.usersButton.name: "Utenti"
