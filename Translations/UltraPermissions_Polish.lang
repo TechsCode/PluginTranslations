@@ -3,9 +3,7 @@
 # To make your own language file, copy this file and edit the copy
 #
 # Changes made to this file will be reset!
-# Do not edit it!
-#
-# Translated by crosby - 100% Translation
+# Do not edit it! - Translated by crosby 
 #
 
 # DemoteCommand.demoted.failed.alreadyInLowest: "User **%user%** is already in the lowest group of the group path **%groupPathName%**"

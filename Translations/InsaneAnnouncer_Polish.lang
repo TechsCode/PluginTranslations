@@ -1,10 +1,10 @@
+#
 # Official Language File
 # To make your own language file, copy this file and edit the copy
 #
 # Changes made to this file will be reset!
-# Do not edit it!
+# Do not edit it! - Translated by crosby
 #
-# Translated by crosby - 100%
 
 # actionBarView.durationButton.lore.click: "Click to edit the duration"
 # actionBarView.durationButton.lore.duration.off: "Off - Standard duration"
