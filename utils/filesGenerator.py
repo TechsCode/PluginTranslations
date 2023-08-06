@@ -1,39 +1,41 @@
 import os
 
-def create_lang_file(plugin_name, language_list):
-    filename = f"PluginTranslations\Translations\{plugin_name}_{language_list}.lang"
-    baseTemplate = f"PluginTranslations\Templates\{plugin_name}_English.lang"
+def createLangFile(pluginName, lang):
+    fileName = rf"PluginTranslations\Translations\{pluginName}_{lang}.lang"
+    baseTemplate = rf"PluginTranslations\Templates\{pluginName}_English.lang"
     
-    if os.path.exists(f"{filename}"):
+    if os.path.exists(f"{fileName}"):
         return
 
     try:
         with open(baseTemplate, 'r') as fileBase:
             lines = fileBase.readlines()
 
-        with open(filename, 'w') as fileToFix:
+        with open(fileName, 'w') as fileToFix:
             for line in lines:
                 if ":" in line:
                     line = "# " + line
                 fileToFix.write(line)
 
-        print(f"File '{filename}' created successfully.")
+        print(f"File '{pluginName}_{lang}' created successfully.")
     except FileNotFoundError as e:
         print(f"[ERROR] File not found. {e}")
     except Exception as e:
         print(f"[ERROR] An error occurred: {e}")
 
-options = ["UltraPermissions", "UltraScoreboards", "UltraPunishments", "UltraCustomizer", "UltraEconomy", "UltraRegions", "UltraMotd", "InsaneShops", "InsaneVaults", "InsaneSpawners", "InsaneAnnouncer"]
-languages = ["Czech", "Dutch", "Danish", "French", "German", "Hungarian", "Italian", "Korean", "Polish", "Portuguese", "Romanian", "Russian", "simplified-Chinese", "Slovak", "Spanish", "Taiwan"]
-plugin_name = input("Enter the name of the plugin: ")
+pluginOptions = ["UltraPermissions", "UltraScoreboards", "UltraPunishments", "UltraCustomizer", "UltraEconomy", "UltraRegions", "UltraMotd", "InsaneShops", "InsaneVaults", "InsaneSpawners", "InsaneAnnouncer"] # 11 plugins
+languageOptions = ["Czech", "Dutch", "Danish", "French", "German", "Hungarian", "Italian", "Korean", "Polish", "Portuguese", "Romanian", "Russian", "simplified-Chinese", "Slovak", "Spanish", "Taiwan"] # 15 languages 
+pluginName = input("Enter the name of the plugin: ")
 
-if plugin_name == "all":
-    for option in options:
-        for lang in languages:
-            create_lang_file(option, lang)
+if pluginName == "all":
+    for plugin in pluginOptions:
+        for lang in languageOptions:
+            createLangFile(plugin, lang)
 else:            
-    if plugin_name in options:
-        for lang in languages:
-            create_lang_file(plugin_name, lang)
+    if pluginName in pluginOptions:
+        for lang in languageOptions:
+            createLangFile(pluginName, lang)
     else:
-        print("Invalid plugin name.")
+        print("[ERROR] Invalid plugin name.")
+        print("Available plugins: " + ", ".join(pluginOptions))
+        
