@@ -1,10 +1,11 @@
-#
+# 
 # Fichier des langues officielles
 # Pour créer votre propre fichier de langue, copiez ce fichier et modifiez la copie
-#
+# 
 # Les modifications apportées à ce fichier seront réinitialisées !
 # Ne le modifiez pas !
-#
+# 
+
 Overview.scoreboardButton.lore.click: "Clique pour voir tous les **Scoreboards**"
 Overview.scoreboardButton.lore.createdSoFar: "%board% créé aujourd'hui"
 Overview.scoreboardButton.lore.scoreboard: "Scoreboard"

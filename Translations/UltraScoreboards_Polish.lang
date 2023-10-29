@@ -1,22 +1,20 @@
-#
+# 
 # Official Language File
 # To make your own language file: copy this file and edit the copy
-#
+# 
 # Changes made to this file will be reset!
-# Do not edit it!
+# Do not edit it! - Translated by crosby
 #
-# Translated by crosby
 
-
-Overview.scoreboardButton.name: "Scoreboards"
 Overview.scoreboardButton.lore.click: "Kliknij, aby wyświetlić wszystkie **Scoreboardy**"
 Overview.scoreboardButton.lore.createdSoFar: "%board% stworzonych tabel"
 Overview.scoreboardButton.lore.scoreboard: "Scoreboard"
 Overview.scoreboardButton.lore.scoreboards: "Scoreboardy"
-Overview.settingsButton.name: "Ustawienia"
+Overview.scoreboardButton.name: "Scoreboards"
 Overview.settingsButton.lore.click: "Kliknij, aby wyświetlić **Ustawienia**"
-Overview.usersButton.name: "Gracze"
+Overview.settingsButton.name: "Ustawienia"
 Overview.usersButton.lore.click: "Kliknij, aby wyświetlić wszystkich **Graczy**"
 Overview.usersButton.lore.registered: "%player% zarejestrowanych graczy"
 Overview.usersButton.lore.registered.player: "Gracz"
 Overview.usersButton.lore.registered.players: "Gracze"
+Overview.usersButton.name: "Gracze"
