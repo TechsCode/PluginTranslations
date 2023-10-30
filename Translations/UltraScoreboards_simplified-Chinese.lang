@@ -1,0 +1,20 @@
+#
+# Official Language File
+# To make your own language file, copy this file and edit the copy
+#
+# Changes made to this file will be reset!
+# Do not edit it!
+#
+
+# Overview.scoreboardButton.lore.click: "Click to view all **Scoreboards**"
+# Overview.scoreboardButton.lore.createdSoFar: "%board% created to far"
+# Overview.scoreboardButton.lore.scoreboard: "Scoreboard"
+# Overview.scoreboardButton.lore.scoreboards: "Scoreboards"
+# Overview.scoreboardButton.name: "Scoreboards"
+# Overview.settingsButton.lore.click: "Click to view **Settings**"
+# Overview.settingsButton.name: "Settings"
+# Overview.usersButton.lore.click: "Click to view all **Users**"
+# Overview.usersButton.lore.registered: "%player% registered so far"
+# Overview.usersButton.lore.registered.player: "Player"
+# Overview.usersButton.lore.registered.players: "Players"
+# Overview.usersButton.name: "Users"
