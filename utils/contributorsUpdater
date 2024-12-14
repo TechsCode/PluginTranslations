@@ -1,0 +1,73 @@
+import requests
+
+# Constants
+GITHUB_API_URL = "https://api.github.com"
+OUTPUT_FILE = "contributors.md"
+
+
+def fetch_contributors_with_stats(owner, repo):
+    """Fetch contributors of the GitHub repository with their stats."""
+    url = f"{GITHUB_API_URL}/repos/{owner}/{repo}/stats/contributors"
+    response = requests.get(url)
+
+    if response.status_code != 200:
+        print(f"Failed to fetch contributors: {response.status_code} {response.text}")
+        return []
+
+    data = response.json()
+    if not data:
+        print("No contributors or stats data available.")
+        return []
+
+    contributors = [
+        {
+            "login": contributor["author"]["login"],
+            "avatar_url": contributor["author"]["avatar_url"],
+            "lines_changed": sum(week["a"] + week["d"] for week in contributor["weeks"]),
+        }
+        for contributor in data
+    ]
+
+    # Sort contributors by lines changed, descending
+    contributors.sort(key=lambda x: x["lines_changed"], reverse=True)
+    return contributors
+
+
+def update_contributors_file(contributors):
+    """Update the Contributors file with the list of contributors."""
+    with open(OUTPUT_FILE, "w") as file:
+        file.write("# **Contributors**\n\n")
+        file.write("This page is for crediting work of other people.\n\n")
+        file.write(
+            "Since this repository moved multiple times, a lot of contribution credits were lost.<br>\n"
+        )
+        file.write(
+            "A lot of users spent much time on helping us adding more translations to this repository, we want to thank them with this list.\n\n"
+        )
+        file.write("---\n\n")
+
+        for contributor in contributors:
+            file.write(
+                f"[<img alt=\"{contributor['login']}\" src=\"{contributor['avatar_url']}\" width=\"117\">](https://github.com/{contributor['login']})"
+            )
+        file.write("\n\n---\n")
+
+    print(f"Contributors have been written to {OUTPUT_FILE}.")
+
+
+def main():
+    owner = "TechsCode"
+    repo = "PluginTranslations"
+
+    print(f"Fetching contributors for {owner}/{repo}...")
+    contributors = fetch_contributors_with_stats(owner, repo)
+
+    if contributors:
+        print(f"Fetched {len(contributors)} contributors.")
+        update_contributors_file(contributors)
+    else:
+        print("No contributors found or failed to fetch contributors.")
+
+
+if __name__ == "__main__":
+    main()
