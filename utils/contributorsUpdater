@@ -56,6 +56,7 @@ def update_contributors_file(contributors):
 
 
 def main():
+    """Main function to execute the tool."""
     owner = "TechsCode"
     repo = "PluginTranslations"
 
